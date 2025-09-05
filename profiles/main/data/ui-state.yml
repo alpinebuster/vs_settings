@@ -1,0 +1,1267 @@
+GitHub.remotehub: '{"a6bf1adf70ac417d281dea6ddec7482f/metadata/vscode-vfs://github/alpinebuster/exps":"{\"schemaVersion\":1,\"revision\":\"db678781ed067902d18954d6618e874259501c21\"}","workspaceRepositories":"{\"schemaVersion\":1,\"workspaceRepositories\":[[\"a6bf1adf70ac417d281dea6ddec7482f/vscode-vfs://github/alpinebuster/exps\",{\"workspaceId\":\"a6bf1adf70ac417d281dea6ddec7482f\",\"uri\":{\"$mid\":1,\"fsPath\":\"\\\\alpinebuster\\\\exps\",\"_sep\":1,\"external\":\"vscode-vfs://github/alpinebuster/exps\",\"path\":\"/alpinebuster/exps\",\"scheme\":\"vscode-vfs\",\"authority\":\"github\"},\"canonicalUri\":{\"$mid\":1,\"path\":\"/alpinebuster/exps\",\"scheme\":\"vscode-vfs\",\"authority\":\"github\"},\"name\":\"alpinebuster/exps\",\"provider\":{\"id\":\"github\",\"name\":\"GitHub\"},\"ref\":{\"type\":0,\"name\":\"main\"},\"timestamp\":1736234205272}]]}","a6bf1adf70ac417d281dea6ddec7482f/operations/vscode-vfs://github/alpinebuster/exps":"{\"schemaVersion\":1,\"operations\":[]}"}'
+GitHub.vscode-pull-request-github: '{"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.githubPullRequests.codingAgent.uiIntegration","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;cloudbuttont:31379625;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.githubPullRequests.codingAgent.uiIntegration":true,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"githubPullRequest.lastUsedScopes":["read:user","user:email","repo","workflow"],"githubPullRequest.lastUsedScopesEnterprise":["read:user","user:email","repo","workflow"],"hasMigratedQueries":true,"hasMigratedDefaultQueries4":true}'
+hediet.vscode-drawio: '{"hediet.vscode-drawio.local-storage":{".drawio-config":"{\"language\":\"\",\"customFonts\":[],\"libraries\":\"general\",\"customLibraries\":[\"L.scratchpad\"],\"plugins\":[],\"recentColors\":[],\"formatWidth\":0,\"createTarget\":false,\"pageFormat\":{\"x\":0,\"y\":0,\"width\":850,\"height\":1100},\"search\":true,\"showStartScreen\":true,\"gridColor\":\"#d0d0d0\",\"darkGridColor\":\"#424242\",\"autosave\":true,\"openCounter\":0,\"version\":18,\"unit\":1,\"isRulerOn\":false,\"ui\":\"\"}"}}'
+mechatroner.rainbow-csv: '{"dynamic_dialect:/home/data/workspaces/Arkime-SS/arkime/etc/ipv4-address-space.csv":{"delim":",","policy":"quoted_rfc"}}'
+ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1754049848513,"currentMonthSessions":1,"totalSessions":20},"containers.settings.migrated":true,"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.chat.editRequests","config.github.copilot.chat.advanced.enableApplyPatchTool","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffMaxTokens","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffNEntries","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.claudeReplaceStringExclusively","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilot_ci","extensions.gallery.useLatestApi","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;6074i472:31201624;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;9d2cg352:31346308;usemarketplace:31343026;nesew2to5:31336538;agentclaude:31350858;nes-diff-11:31337487;replacestringexc:31350595;nes-set-on:31351930;6abeh943:31336334;yijiwantestdri0626-t:31336930;0927b901:31350571;ji9b5146:31348712;0cj2b977:31352657;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.chat.editRequests":"hover","config.github.copilot.chat.advanced.enableApplyPatchTool":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffMaxTokens":1000,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.diffNEntries":25,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.claudeReplaceStringExclusively":true,"copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilot_ci":true,"extensions.gallery.useLatestApi":"marketplace","extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"vscode-containers.activity.overall":{"lastSession":1754049848752,"currentMonthSessions":1,"totalSessions":20},"vscode-containers.container.newContainerUser":false,"showQuickPick.f3d31d286fb450aaf6a85182628e325970cc05b73125788c6dd841197c7009e6":"df3e16625d9b29dad20bec3921acaa51a9be450ab97f4df6ead0712c5acb091e","showQuickPick.011ada62b01081290de9658f15511e3e12a7f76f8b3045e6d4fa86e65b18df8a":"ac9e69909537bb9fa1b84b65abd576fe6a698dcfa408925c1505e8bf6887a375"}'
+ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1748307215408,"currentMonthSessions":1,"totalSessions":23},"vscode-docker.activity.overall":{"lastSession":1748307215533,"currentMonthSessions":1,"totalSessions":23},"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","vscode-docker.aatest","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vscode-docker_aaflight:30153983;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"vscode-docker.aatest":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"vscode-docker.container.newContainerUser":false,"showQuickPick.f3d31d286fb450aaf6a85182628e325970cc05b73125788c6dd841197c7009e6":"10e163444d1365c8f7326577c63533df96a676d854fdf835d68a02e2a5e4fe7d","showQuickPick.011ada62b01081290de9658f15511e3e12a7f76f8b3045e6d4fa86e65b18df8a":"fcbe31afe853bc0b220f5fa98e50fd35e202a6754fad8b3a7fa76eaa3b39b672","vscode-docker.migrateToContainerTools.lastShown":1748307215408}'
+ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+ms-python.python: "{\"VSCode.ABExp.FeatureData\":{\"features\":[\"chat.defaultL\
+  anguageModel\",\"chat.defaultMode\",\"config.github.copilot.chat.advanced.ena\
+  bleReadFileV2\",\"config.github.copilot.chat.advanced.inlineEdits.xtabProvide\
+  r.nLinesAbove\",\"config.github.copilot.chat.advanced.inlineEdits.xtabProvide\
+  r.nLinesBelow\",\"config.python.analysis.supportAllPythonDocumentscf\",\"conf\
+  ig.python.locator\",\"config.workbench.secondarySideBar.defaultVisibility\",\
+  \"copilotchat.geminiReplaceString\",\"copilotchat.hiddenModelBEditTool\",\"co\
+  pilotchat.ruffDiagnosticsCookbook\",\"copilot_ci\",\"extensions.gallery.useRe\
+  sourceApi\",\"livesharecontinuousaa\",\"mindaroBinariesVersion\",\"pylanceGen\
+  erateDocstringcf\",\"pythonSurveyNotification\",\"test-ai-12cf\",\"workspace.\
+  embeddingIndex.automaticReindexingDelay\"],\"assignmentContext\":\"vsliv368:3\
+  0146709;pythonvspyt551:31249599;binariesv615:30325510;nativeloc1:31344060;cop\
+  ilot_t_ci:31333650;pythonrdcb7:31342333;usemplatestapi:31297334;aj953862:3128\
+  1341;nesew2to5:31336538;agentgemini:31366296;6abeh943:31336334;0927b901:31350\
+  571;0cj2b977:31352657;gendocstringf:31379556;0574c672:31362109;pylancealldocs\
+  f:31379511;3efgi100_wstrepl:31374188;\",\"configs\":[{\"Id\":\"vscode\",\"Par\
+  ameters\":{\"chat.defaultLanguageModel\":\"github.copilot-chat/gemini-2.5-pro\
+  \",\"chat.defaultMode\":\"agent\",\"config.github.copilot.chat.advanced.enabl\
+  eReadFileV2\":true,\"config.github.copilot.chat.advanced.inlineEdits.xtabProv\
+  ider.nLinesAbove\":2,\"config.github.copilot.chat.advanced.inlineEdits.xtabPr\
+  ovider.nLinesBelow\":5,\"config.python.analysis.supportAllPythonDocuments\":f\
+  alse,\"config.python.locator\":\"native\",\"config.workbench.secondarySideBar\
+  .defaultVisibility\":\"visibleInWorkspace\",\"copilotchat.geminiReplaceString\
+  \":true,\"copilotchat.hiddenModelBEditTool\":\"with_replace_string\",\"copilo\
+  tchat.ruffDiagnosticsCookbook\":true,\"copilot_ci\":true,\"extensions.gallery\
+  .useResourceApi\":\"marketplace\",\"livesharecontinuousaa\":true,\"mindaroBin\
+  ariesVersion\":\"1.0.20210615.1\",\"pylanceGenerateDocstring\":false,\"python\
+  SurveyNotification\":true,\"test-ai-12\":false,\"workspace.embeddingIndex.aut\
+  omaticReindexingDelay\":100000000}}]},\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/\
+  data/workspaces/workspace/doctoral/anonymity/_code/imbalanced_traffic_classif\
+  ication\":true,\"autoSelectionInterpretersQueriedOnce\":true,\"remoteWorkspac\
+  eFolderKeysForWhichTheCopyIsDone_Key\":[\"/home/data/workspaces/meshsdk\",\"C:\
+  \\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHSDK\",\"C:\\\\USERS\\\\RJJ\
+  \\\\DOWNLOADS\\\\WORKSPACES\\\\AI-STOMATOLOGY\",\"/home/data/workspaces/works\
+  pace/doctoral/anonymity/_code/backbone_traffic_detection\",\"/home/data/works\
+  paces/meshlib\",\"C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHLIB\",\
+  \"/home/data/workspaces/Malcolm\",\"/home/data/workspaces/darknet_tc_system\",\
+  \"C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\DARKNET_TC_SYSTEM\",\"/hom\
+  e/zzz/deployments/assemblyline\",\"/home/data/workspaces/assemblyline-docker-\
+  compose\",\"/home/data/workspaces/ab/server/chat/python/synapse\",\"/home/dat\
+  a/workspaces/ab\",\"/home/data/workspaces/workspace\",\"/home/data/workspaces\
+  /workspace/doctoral/anonymity/_code/imbalanced_traffic_classification\"],\"is\
+  RemoteGlobalSettingCopiedKey\":true,\"SHELL_INTEGRATION_WORKING_KEY_bash\":tr\
+  ue,\"pylanceDefaultPromptMemento\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/hom\
+  e/data/workspaces/workspace\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/dat\
+  a/workspaces/ab\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces\
+  /ab/server/chat/python/synapse\":true,\"PYTHON_ENV_INFO_CACHEv2\":[{\"name\":\
+  \"workspace-GrM6Iwfb-py3.11\",\"location\":\"/home/zzz/.cache/pypoetry/virtua\
+  lenvs/workspace-GrM6Iwfb-py3.11\",\"kind\":\"poetry\",\"executable\":{\"filen\
+  ame\":\"/home/zzz/.cache/pypoetry/virtualenvs/workspace-GrM6Iwfb-py3.11/bin/p\
+  ython\",\"sysPrefix\":\"/home/zzz/.cache/pypoetry/virtualenvs/workspace-GrM6I\
+  wfb-py3.11\",\"ctime\":1736240328084,\"mtime\":1736240328084},\"searchLocation\
+  \":{\"$mid\":1,\"path\":\"/home/data/workspaces/workspace\",\"scheme\":\"vsco\
+  de-remote\",\"authority\":\"ssh-remote+zzz-proxy\"},\"display\":\"Python
+  3.11.11
+  ('workspace-GrM6Iwfb-py3.11')\",\"version\":{\"major\":3,\"minor\":11,\"micro\
+  \":11,\"release\":{\"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.11.11
+  (main, Dec 16 2024, 00:20:25) [GCC
+  13.3.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"type\":\"Virt\
+  ual\",\"id\":\"/home/zzz/.cache/pypoetry/virtualenvs/workspace-GrM6Iwfb-py3.1\
+  1/bin/python\",\"detailedDisplayName\":\"Python 3.11.11
+  ('workspace-GrM6Iwfb-py3.11':
+  Poetry)\"},{\"name\":\"3.10.16\",\"location\":\"/home/zzz/.pyenv/versions/3.1\
+  0.16\",\"kind\":\"global-pyenv\",\"executable\":{\"filename\":\"/home/zzz/.py\
+  env/versions/3.10.16/bin/python\",\"sysPrefix\":\"/home/zzz/.pyenv/versions/3\
+  .10.16\",\"ctime\":1734280983333,\"mtime\":1734280983333},\"display\":\"Python
+  3.10.16 64-bit
+  ('3.10.16')\",\"version\":{\"major\":3,\"minor\":10,\"micro\":16,\"release\":{\
+  \"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.10.16 (main, Dec 16 2024,
+  00:42:49) [GCC
+  13.3.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"/home/\
+  zzz/.pyenv/versions/3.10.16/bin/python\",\"detailedDisplayName\":\"Python
+  3.10.16 64-bit ('3.10.16':
+  pyenv)\"},{\"name\":\"3.11.11\",\"location\":\"/home/zzz/.pyenv/versions/3.11\
+  .11\",\"kind\":\"global-pyenv\",\"executable\":{\"filename\":\"/home/zzz/.pye\
+  nv/versions/3.11.11/bin/python\",\"sysPrefix\":\"/home/zzz/.pyenv/versions/3.\
+  11.11\",\"ctime\":1734279517668,\"mtime\":1734279517668},\"display\":\"Python
+  3.11.11 64-bit
+  ('3.11.11')\",\"version\":{\"major\":3,\"minor\":11,\"micro\":11,\"release\":{\
+  \"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.11.11 (main, Dec 16 2024,
+  00:20:25) [GCC
+  13.3.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"/home/\
+  zzz/.pyenv/versions/3.11.11/bin/python\",\"detailedDisplayName\":\"Python
+  3.11.11 64-bit ('3.11.11':
+  pyenv)\"},{\"name\":\"3.13.0\",\"location\":\"/home/zzz/.pyenv/versions/3.13.0\
+  \",\"kind\":\"global-pyenv\",\"executable\":{\"filename\":\"/home/zzz/.pyenv/\
+  versions/3.13.0/bin/python\",\"sysPrefix\":\"/home/zzz/.pyenv/versions/3.13.0\
+  \",\"ctime\":1734275227357,\"mtime\":1734275227357},\"display\":\"Python
+  3.13.0 64-bit
+  ('3.13.0')\",\"version\":{\"major\":3,\"minor\":13,\"micro\":0,\"release\":{\
+  \"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.13.0 (main, Dec 15 2024,
+  23:07:00) [GCC
+  13.3.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"/home/\
+  zzz/.pyenv/versions/3.13.0/bin/python\",\"detailedDisplayName\":\"Python
+  3.13.0 64-bit ('3.13.0':
+  pyenv)\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"execut\
+  able\":{\"filename\":\"/bin/python\",\"sysPrefix\":\"/usr\",\"ctime\":1737353\
+  288331,\"mtime\":1686651443000},\"display\":\"Python 3.12.3
+  64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":3,\"release\":{\"lev\
+  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.3 (main, Nov  6 2024,
+  18:32:19) [GCC
+  13.2.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+  var\"],\"id\":\"/bin/python\",\"detailedDisplayName\":\"Python 3.12.3
+  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"execut\
+  able\":{\"filename\":\"/bin/python3.11\",\"sysPrefix\":\"/usr\",\"ctime\":173\
+  4713135954,\"mtime\":1733302508000},\"display\":\"Python 3.11.11
+  64-bit\",\"version\":{\"major\":3,\"minor\":11,\"micro\":11,\"release\":{\"le\
+  vel\":\"final\",\"serial\":0},\"sysVersion\":\"3.11.11 (main, Dec  4 2024,
+  08:55:08) [GCC
+  13.2.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+  var\"],\"id\":\"/bin/python3.11\",\"detailedDisplayName\":\"Python 3.11.11
+  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"execut\
+  able\":{\"filename\":\"/usr/bin/python\",\"sysPrefix\":\"/usr\",\"ctime\":173\
+  7353288331,\"mtime\":1686651443000},\"display\":\"Python 3.12.3
+  64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":3,\"release\":{\"lev\
+  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.3 (main, Nov  6 2024,
+  18:32:19) [GCC
+  13.2.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+  var\"],\"id\":\"/usr/bin/python\",\"detailedDisplayName\":\"Python 3.12.3
+  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"execut\
+  able\":{\"filename\":\"/usr/bin/python3.11\",\"sysPrefix\":\"/usr\",\"ctime\"\
+  :1734713135954,\"mtime\":1733302508000},\"display\":\"Python 3.11.11
+  64-bit\",\"version\":{\"major\":3,\"minor\":11,\"micro\":11,\"release\":{\"le\
+  vel\":\"final\",\"serial\":0},\"sysVersion\":\"3.11.11 (main, Dec  4 2024,
+  08:55:08) [GCC
+  13.2.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+  var\"],\"id\":\"/usr/bin/python3.11\",\"detailedDisplayName\":\"Python 3.11.11
+  64-bit\"}],\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/assemblylin\
+  e-docker-compose\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/zzz/deployment\
+  s/assemblyline\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\RJJ\\\\\
+  DOWNLOADS\\\\WORKSPACES\\\\DARKNET_TC_SYSTEM\":true,\"PYTHON_WAS_DISCOVERY_TR\
+  IGGERED_/home/data/workspaces/darknet_tc_system\":true,\"PYTHON_WAS_DISCOVERY\
+  _TRIGGERED_/home/data/workspaces/Malcolm\":true,\"PYTHON_WAS_DISCOVERY_TRIGGE\
+  RED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHLIB\":true,\"PYTHON_\
+  WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/meshlib\":true,\"PYTHON_WAS_DIS\
+  COVERY_TRIGGERED_/home/data/workspaces/workspace/doctoral/anonymity/_code/bac\
+  kbone_traffic_detection\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\
+  \\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\AI-STOMATOLOGY\":true,\"PYTHON_WAS_DISCOV\
+  ERY_TRIGGERED_/home/data/workspaces/meshsdk\":true,\"PYTHON_WAS_DISCOVERY_TRI\
+  GGERED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHSDK\":true,\"SHEL\
+  L_INTEGRATION_WORKING_KEY_powershell\":true,\"PYTHON_GLOBAL_STORAGE_KEYS\":[{\
+  \"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/workspace\",\"\
+  defaultValue\":false},{\"key\":\"PYTHON_ENV_INFO_CACHEv2\",\"defaultValue\":[\
+  ]},{\"key\":\"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS\",\"defaultValue\":[]},{\"\
+  key\":\"SHELL_INTEGRATION_WORKING_KEY_other\"},{\"key\":\"ssh-remote_WORKSPAC\
+  E_FOLDER_INTERPRETER_PATH_/home/data/workspaces/workspace\"},{\"key\":\"prefe\
+  rredGlobalPyInterpreter\"},{\"key\":\"VSCode.ABExp.FeatureData\",\"defaultVal\
+  ue\":{\"features\":[]}},{\"key\":\"isRemoteGlobalSettingCopiedKey\",\"default\
+  Value\":false},{\"key\":\"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key\
+  \",\"defaultValue\":[]},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/da\
+  ta/workspaces/meshsdk\"},{\"key\":\"autoSelectionInterpretersQueriedOnce\"}]}"
+ms-vscode-remote.remote-containers: '{"userConfirmedAttachToContainerRequiresTrust":true,"localExtensions":["adpyke.codesnap","AESSoft.aessoft-class-autocomplete","ahmadalli.vscode-nginx-conf","alefragnani.Bookmarks","alefragnani.rtf","alpinebuster.vscode-latex-table-editor","arcticicestudio.nord-visual-studio-code","batisteo.vscode-django","bbenoist.Nix","bierner.emojisense","bierner.markdown-mermaid","bradlc.vscode-tailwindcss","chouzz.vscode-better-align","christian-kohler.path-intellisense","CimpeanAndrei.linux-terminal-flat","codezombiech.gitignore","cschlosser.doxdocgen","csstools.postcss","DavidAnson.vscode-markdownlint","dbaeumer.vscode-eslint","docsmsft.docs-markdown","donjayamanne.githistory","DotJoshJohnson.xml","ecmel.vscode-html-css","flowtype.flow-for-vscode","GitHub.github-vscode-theme","GitHub.remotehub","github.vscode-github-actions","GitHub.vscode-pull-request-github","golang.go","GrapeCity.gc-excelviewer","GraphQL.vscode-graphql","GraphQL.vscode-graphql-syntax","Gruntfuggly.todo-tree","hangxingliu.vscode-systemd-support","haskell.haskell","hbenl.vscode-test-explorer","hediet.vscode-drawio","HTMLHint.vscode-htmlhint","humao.rest-client","James-Yu.latex-workshop","jock.svg","justusadam.language-haskell","k-kuroguro.csv2latex","kisstkondoros.vscode-gutter-preview","llvm-vs-code-extensions.lldb-dap","LoyieKing.smalise","luveti.kconfig","maelvalais.autoconf","mathematic.vscode-pdf","mayank8197d.texetch","mechatroner.rainbow-csv","medzhidov.hex-rgba-converter","mikestead.dotenv","mohsen1.prettify-json","mongodb.mongodb-vscode","ms-azuretools.vscode-docker","ms-kubernetes-tools.vscode-kubernetes-tools","ms-ossdata.vscode-postgresql","ms-playwright.playwright","ms-python.black-formatter","ms-python.debugpy","ms-python.isort","ms-python.python","ms-python.vscode-pylance","ms-toolsai.jupyter","ms-toolsai.jupyter-keymap","ms-toolsai.jupyter-renderers","ms-toolsai.tensorboard","ms-toolsai.vscode-jupyter-cell-tags","ms-toolsai.vscode-jupyter-slideshow","ms-vscode-remote.remote-containers","ms-vscode-remote.remote-ssh","ms-vscode-remote.remote-ssh-edit","ms-vscode-remote.remote-wsl","ms-vscode-remote.vscode-remote-extensionpack","ms-vscode.cmake-tools","ms-vscode.cpptools","ms-vscode.cpptools-themes","ms-vscode.hexeditor","ms-vscode.remote-explorer","ms-vscode.remote-repositories","ms-vscode.remote-server","ms-vscode.test-adapter-converter","ms-vscode.vscode-typescript-next","ms-vsliveshare.vsliveshare","mtsmfm.vscode-stl-viewer","mtxr.sqltools","mtxr.sqltools-driver-mysql","mtxr.sqltools-driver-pg","mtxr.sqltools-driver-sqlite","Natizyskunk.sftp","naumovs.color-highlight","njpwerner.autodocstring","nvidia.nsight-vscode-edition","oderwat.indent-rainbow","Percy.vscode-numpy-viewer","phr0s.bib","pranaygp.vscode-css-peek","quicktype.quicktype","qwtel.sqlite-viewer","redhat.vscode-xml","redhat.vscode-yaml","ritwickdey.LiveServer","rust-lang.rust-analyzer","ryu1kn.partial-diff","samuelcolvin.jinjahtml","samueletorregrossa.compress-download-extension","sankooc.pcapviewer","scala-lang.scala","streetsidesoftware.code-spell-checker","Surendrajat.apklab","svelte.svelte-vscode","sysoev.language-stylus","tamasfe.even-better-toml","timonwong.shellcheck","tinkertrain.theme-panda","tommorris.mako","trond-snekvik.simple-rst","unifiedjs.vscode-mdx","usernamehw.errorlens","vadimcn.vscode-lldb","VisualStudioExptTeam.intellicode-api-usage-examples","VisualStudioExptTeam.vscodeintellicode","vscode-icons-team.vscode-icons","vsls-contrib.codetour","Vue.volar","wayou.vscode-todo-highlight","wholroyd.jinja","william-voyek.vscode-nginx","wix.vscode-import-cost","WyattFerguson.jinja2-snippet-kit","xdebug.php-debug","zeshuaro.vscode-python-poetry","ZhangYue.rust-mod-generator","zxh404.vscode-proto3"],"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"devcontainers.controlManifest":{"timestamp":"2025-03-22T15:57:01.583Z","manifest":{"disallowedFeatures":[]}},"removeOnStartup":false,"buildNoCache":false}'
+ms-vscode-remote.remote-ssh: "{\"remote.ssh.hints\":[{\"hints\":[{\"type\":\"en\
+  vironment\",\"message\":\"VS Code version:
+  1.102.1\"},{\"type\":\"environment\",\"message\":\"Remote-SSH version:
+  remote-ssh@0.120.0\"},{\"type\":\"environment\",\"message\":\"win32
+  x64\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'useLocalServer' is set to value 'false'\",\"details\":\"Enables a mode for
+  connecting using a single connection shared between windows and across window
+  reloads. This makes it faster to open new windows and reduces the number of
+  times a password needs to be
+  entered.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'useExecServer' is set to value 'true'\",\"details\":\"Uses the a new
+  bootstrapping mode when connecting to a server. Can be toggled off in the
+  event of connection
+  issues.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'bindHost' is set to value '{}'\",\"details\":\"Configures the host the VS
+  Code server will bind to on the remote server. It defaults to IPv4 localhost
+  and should only need modification in advanced
+  cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'showLoginTerminal' is set to value 'false'\",\"details\":\"Always reveal the
+  SSH login terminal.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'remotePlatform' is set to value
+  '{\\\"zzz-proxy\\\":\\\"linux\\\"}'\",\"details\":\"A map of the remote
+  hostname to the platform for that remote. The hostname may include a star '*'
+  to wildcard match. Valid values: `linux`, `macOS`, `windows`. Note - this
+  setting will soon be required when `#remote.SSH.useLocalServer#` is disabled,
+  so it is currently being autopopulated for successful connections, but is not
+  currently used.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'path' is set to value 'undefined'\",\"details\":\"An absolute path to the SSH
+  executable. When empty, it will use \\\"ssh\\\" on the path or in common
+  install locations.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'configFile' is set to value 'undefined'\",\"details\":\"The absolute
+  file path to a custom SSH config
+  file.\"},{\"type\":\"environment\",\"message\":\"Extension setting 'useFlock'
+  is set to value 'true'\",\"details\":\"Whether to use `flock` for creating
+  lockfiles on Linux remotes instead of `ln`. By default, we use `flock` on
+  Linux remotes and `ln` on
+  macOS.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'lockfilesInTmp' is set to value 'false'\",\"details\":\"Whether to keep
+  lockfiles in `/tmp` instead of in the server's install folder. Useful for
+  connecting to hosts which have issues with locking, such as hosts with a home
+  directory using NFS or another distributed
+  filesystem.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'localServerDownload' is set to value 'auto'\",\"details\":\"Whether the
+  extension can download the VS Code Server on the client and transfer it to the
+  host with scp, instead of downloading it on the
+  host.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'remoteServerListenOnSocket' is set to value 'false'\",\"details\":\"When
+  true, the remote VS Code server will listen on a socket path instead of
+  opening a port. Only valid for Linux and macOS remotes. After toggling this
+  setting, run the command \\\"Kill VS Code Server on Host...\\\" for it to take
+  effect. Requires OpenSSH 6.7+. Disables the \\\"local server\\\" connection
+  multiplexing mode. Requires `AllowStreamLocalForwarding` to be enabled for the
+  SSH server.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'defaultExtensions' is set to value '[]'\",\"details\":\"List of extensions
+  that should be installed automatically on all SSH
+  hosts.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'defaultExtensionsIfInstalledLocally' is set to value
+  '[]'\"},{\"type\":\"environment\",\"message\":\"Extension setting 'loglevel'
+  is set to value '2'\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'enableDynamicForwarding' is set to value
+  'true'\",\"details\":\"Whether to use SSH dynamic forwarding to allow setting
+  up new port tunnels over an existing SSH connection. When this is used, a
+  password only needs to be entered once for each remote
+  window.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'enableRemoteCommand' is set to value
+  'false'\",\"details\":\"**Experimental:** Enable using RemoteCommands from ssh
+  config entries. This is only enabled if `#remote.SSH.useLocalServer#` is
+  enabled as well and the remote you are trying to connect to is not listed
+  under the `#remote.SSH.remotePlatform#`
+  setting.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'serverPickPortsFromRange' is set to value '{}'\",\"details\":\"A map of the
+  remote hostname to a range of ports you'd prefer the server to connect to on
+  launch on the **remote** machine. If no free port is found in range, an error
+  will be thrown. Valid ranges of the form `number-number` such as `4000-5000`;
+  it's expected the first number will be lower than the
+  next.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'serverInstallPath' is set to value '{}'\",\"details\":\"A map of remote host
+  to absolute path where the VS Code server will be installed. By default the
+  server is installed in the home directory of every remote. **Note**: By
+  changing this setting you may need to clean up other installations of
+  `.vscode-server` on your remote that isn't in the path you've
+  configured.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'permitPtyAllocation' is set to value 'false'\",\"details\":\"Permits the
+  system to allocate a pseudo-terminal for the SSH connection (by omitting the
+  '-T' SSH connection flag). This setting is disabled by default and may be
+  enabled to support specific
+  use-cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'preferredLocalPortRange' is set to value 'undefined'\",\"details\":\"A range
+  of **local** ports preferred to utilize for the SSH tunnel connection. If no
+  free port is found in range, an error will be thrown. Valid ranges of the form
+  `number-number` such as `4000-5000`; it's expected the first number will be
+  lower than the next.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'useCurlAndWgetConfigurationFiles' is set to value
+  'false'\",\"details\":\"Respect configuration from remote environment's
+  'curlrc' and 'wgetrc' files (placed in their respective default
+  locations).  Enabling this setting may be useful in certain cases (i.e: proxy
+  configuration) but can interfere with this extension's operation. Setting may
+  be ignored on platforms that do not support the necessary flags (i.e:
+  busybox).\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'experimental.chat' is set to value 'false'\",\"details\":\"Enables an
+  experimental Copilot Chat Participant.  Use natural language to learn about
+  Remote - SSH and diagnose connection issues.  For the best experience, use VS
+  Code Insiders and ensure you have the latest Copilot Chat extension
+  installed.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'experimental.enhancedSessionLogs' is set to value
+  'false'\",\"details\":\"Generates a summarized table of issues detected from
+  the previous session.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'httpProxy' is set to value '{}'\",\"details\":\"Set the 'http_proxy'
+  environment variable.  This will be set for install and launch of the remote
+  VS Code Server. Provide a string to set for all hosts, or an object with
+  per-host configuration. Kill existing server on the remote for this setting to
+  take effect.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'httpsProxy' is set to value '{}'\",\"details\":\"Set the 'https_proxy'
+  environment variable.  This will be set for install and launch of the remote
+  VS Code Server. Provide a string to set for all hosts, or an object with
+  per-host configuration. Kill existing server on the remote for this setting to
+  take effect.\"},{\"type\":\"log\",\"message\":\"[14:48:29.159] Log Level:
+  2\\n[14:48:29.282] VS Code version: 1.102.1\\n[14:48:29.283] Remote-SSH
+  version: remote-ssh@0.120.0\\n[14:48:29.283] win32 x64\\n[14:48:29.369] SSH
+  Resolver called for \\\"ssh-remote+zzz-proxy\\\", attempt 1\\n[14:48:29.376]
+  remote.SSH.useLocalServer = false\\n[14:48:29.377] remote.SSH.useExecServer =
+  true\\n[14:48:29.377] remote.SSH.bindHost = {}\\n[14:48:29.377]
+  remote.SSH.showLoginTerminal = false\\n[14:48:29.378]
+  remote.SSH.remotePlatform = {\\\"zzz-proxy\\\":\\\"linux\\\"}\\n[14:48:29.378]
+  remote.SSH.path = undefined\\n[14:48:29.378] remote.SSH.configFile =
+  undefined\\n[14:48:29.379] remote.SSH.useFlock = true\\n[14:48:29.379]
+  remote.SSH.lockfilesInTmp = false\\n[14:48:29.379]
+  remote.SSH.localServerDownload = auto\\n[14:48:29.380]
+  remote.SSH.remoteServerListenOnSocket = false\\n[14:48:29.380]
+  remote.SSH.defaultExtensions = []\\n[14:48:29.380]
+  remote.SSH.defaultExtensionsIfInstalledLocally = []\\n[14:48:29.381]
+  remote.SSH.loglevel = 2\\n[14:48:29.382] remote.SSH.enableDynamicForwarding =
+  true\\n[14:48:29.382] remote.SSH.enableRemoteCommand = false\\n[14:48:29.383]
+  remote.SSH.serverPickPortsFromRange = {}\\n[14:48:29.383]
+  remote.SSH.serverInstallPath = {}\\n[14:48:29.384]
+  remote.SSH.permitPtyAllocation = false\\n[14:48:29.389]
+  remote.SSH.preferredLocalPortRange = undefined\\n[14:48:29.390]
+  remote.SSH.useCurlAndWgetConfigurationFiles = false\\n[14:48:29.390]
+  remote.SSH.experimental.chat = false\\n[14:48:29.390]
+  remote.SSH.experimental.enhancedSessionLogs = false\\n[14:48:29.391]
+  remote.SSH.httpProxy = {}\\n[14:48:29.391] remote.SSH.httpsProxy =
+  {}\\n[14:48:29.472] Found relevant configuration for host zzz-proxy in JSON
+  data\\n[14:48:29.472] SSH Resolver called for host: zzz-proxy\\n[14:48:29.472]
+  Setting up SSH remote \\\"zzz-proxy\\\"\\n[14:48:29.512] Using commit id
+  \\\"7adae6a56e34cb64d08899664b814cf620465925\\\" and quality \\\"stable\\\"
+  for server\\n[14:48:29.512] Extensions to install: \\n[14:48:29.542] Install
+  and start server if needed\\n[14:48:29.562] Checking ssh with
+  \\\"C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\bin\\\\ssh.exe -V\\\"\\n[14:48:29.573] Got error
+  from ssh: spawn C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\bin\\\\ssh.exe ENOENT\\n[14:48:29.574] Checking
+  ssh with \\\"C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\libnvvp\\\\ssh.exe -V\\\"\\n[14:48:29.576] Got
+  error from ssh: spawn C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\libnvvp\\\\ssh.exe ENOENT\\n[14:48:29.577]
+  Checking ssh with
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\Scripts\
+  \\\\ssh.exe -V\\\"\\n[14:48:29.580] Got error from ssh: spawn
+  C:\\\\Users\\\\rjj\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\Scripts\\\
+  \\ssh.exe ENOENT\\n[14:48:29.580] Checking ssh with
+  \\\"C:\\\\Python313\\\\Scripts\\\\ssh.exe -V\\\"\\n[14:48:29.584] Got error
+  from ssh: spawn C:\\\\Python313\\\\Scripts\\\\ssh.exe ENOENT\\n[14:48:29.585]
+  Checking ssh with \\\"C:\\\\Python313\\\\ssh.exe -V\\\"\\n[14:48:29.587] Got
+  error from ssh: spawn C:\\\\Python313\\\\ssh.exe ENOENT\\n[14:48:29.587]
+  Checking ssh with \\\"C:\\\\WINDOWS\\\\system32\\\\ssh.exe
+  -V\\\"\\n[14:48:29.590] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\system32\\\\ssh.exe ENOENT\\n[14:48:29.590] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\ssh.exe -V\\\"\\n[14:48:29.593] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\ssh.exe ENOENT\\n[14:48:29.593] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe -V\\\"\\n[14:48:29.596] Got
+  error from ssh: spawn C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe
+  ENOENT\\n[14:48:29.597] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
+  -V\\\"\\n[14:48:29.601] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
+  ENOENT\\n[14:48:29.602] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe -V\\\"\\n[14:48:29.729] >
+  OpenSSH_for_Windows_9.5p1, LibreSSL 3.8.2\\n\\n[14:48:29.753] Running script
+  with connection command:
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 12915
+  \\\"zzz-proxy\\\" sh\\n[14:48:29.759] Generated SSH command: 'type
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-line\
+  -command-zzz-proxy-422756065.sh\\\" |
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 12915
+  \\\"zzz-proxy\\\" sh'\\n[14:48:29.760] Using connect timeout of 17
+  seconds\\n[14:48:29.763] Terminal shell path:
+  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[14:48:31.676] > 6ab766193c5d:
+  running\\n> Script executing under PID: 892528\\n[14:48:31.676] Got some
+  output, clearing connection timeout\\n[14:48:31.709] > Deleting old install
+  /home/zzz/.vscode-server/code-7adae6a56e34cb64d08899664b814cf620465925\\n>
+  Installing to /home/zzz/.vscode-server...\\n> 6ab766193c5d%%1%%\\n>
+  Downloading with wget\\n> wget is from busybox: no\\n> Program 'wget' appears
+  to support flag '--no-config'\\n[14:48:36.331] > Download
+  complete\\n[14:48:36.345] > 6ab766193c5d%%2%%\\n> tar --version: tar (GNU tar)
+  1.35\\n> Copyright (C) 2023 Free Software Foundation, Inc.\\n> License GPLv3+:
+  GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.\\n> This is
+  free software: you are free to change and redistribute it.\\n> There is NO
+  WARRANTY, to the extent permitted by law.Written by John Gilmore and Jay
+  Fenlason.\\n[14:48:36.511] > code 1.102.1 (commit
+  7adae6a56e34cb64d08899664b814cf620465925)\\n> Starting VS Code CLI...\\n>
+  Removing old logfile at
+  /home/zzz/.vscode-server/.cli.7adae6a56e34cb64d08899664b814cf620465925.log\\n>
+  Spawned remote CLI: 892626\\n> Waiting for server log...\\n[14:48:36.526] >
+  6ab766193c5d: start\\n> listeningOn==127.0.0.1:38855==\\n>
+  osReleaseId==ubuntu==\\n> arch==x86_64==\\n> vscodeArch==x64==\\n>
+  bitness==64==\\n> tmpDir==/run/user/1000==\\n> platform==linux==\\n>
+  unpackResult==success==\\n> didLocalDownload==0==\\n> downloadTime==4626==\\n>
+  installTime==153==\\n> serverStartTime==39==\\n>
+  execServerToken==11111111-a111-11a1-a111-a111aa1111a1==\\n>
+  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
+  DISPLAY====\\n> 6ab766193c5d: end\\n[14:48:36.526] Received install output:
+  \\nlisteningOn==127.0.0.1:38855==\\nosReleaseId==ubuntu==\\narch==x86_64==\\n\
+  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
+  x==\\nunpackResult==success==\\ndidLocalDownload==0==\\ndownloadTime==4626==\
+  \\ninstallTime==153==\\nserverStartTime==39==\\nexecServerToken==11111111-a11\
+  1-11a1-a111-a111aa1111a1==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUT\
+  H_SOCK====\\nDISPLAY====\\n\\n[14:48:36.528] Remote server is listening on
+  port 38855\\n[14:48:36.528] Parsed server configuration:
+  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":38855},\
+  \\\"osReleaseId\\\":\\\"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
+  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
+  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"11111111-a111-11a1\
+  -a111-a111aa1111a1\\\"},\\\"downloadTime\\\":4626,\\\"installTime\\\":153,\\\
+  \"serverStartTime\\\":39,\\\"installUnpackCode\\\":\\\"success\\\"}\\n[14:48:\
+  36.537] Starting forwarding server. local port 12926 -> socksPort 12915 ->
+  remotePort 38855\\n[14:48:36.539] Forwarding server listening on port
+  12926\\n[14:48:36.540] Waiting for ssh tunnel to be ready\\n[14:48:36.550] >
+  \\n[14:48:36.551] [Forwarding server port 12926] Got connection
+  0\\n[14:48:36.554] Tunneled port 38855 to local port 12926\\n[14:48:36.554]
+  Resolved \\\"ssh-remote+zzz-proxy\\\" to \\\"port 12926\\\"\\n[14:48:36.568]
+  Initizing new exec server for ssh-remote+zzz-proxy\\n[14:48:36.568] Resolving
+  exec server at port 12926\\n[14:48:36.572] [Forwarding server port 12926] Got
+  connection 1\\n[14:48:36.704] Exec server for ssh-remote+zzz-proxy created and
+  cached\\n[14:48:36.704] Extensions to install: \\n[14:48:36.704] Updating
+  terminal environments: {}\\n[14:48:36.708] TELEMETRY:
+  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
+  \"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
+  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
+  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
+  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
+  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"1\\\",\\\"outcome\\\
+  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":1,\\\"retries\\\
+  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":7340,\\\"timing.p\
+  reSshTime\\\":393,\\\"timing.establishSshTime\\\":1916,\\\"timing.scriptTime\\\
+  \":6765,\\\"timing.downloadTime\\\":4626,\\\"timing.installTime\\\":153,\\\"t\
+  iming.serverStartTime\\\":39}}\\n[14:48:36.715]
+  ------\\n\\n\\n\\n\"},{\"type\":\"log\",\"message\":\"[14:48:29.159] Log
+  Level: 2\\n[14:48:29.282] VS Code version: 1.102.1\\n[14:48:29.283] Remote-SSH
+  version: remote-ssh@0.120.0\\n[14:48:29.283] win32 x64\\n[14:48:29.369] SSH
+  Resolver called for \\\"ssh-remote+zzz-proxy\\\", attempt 1\\n[14:48:29.376]
+  remote.SSH.useLocalServer = false\\n[14:48:29.377] remote.SSH.useExecServer =
+  true\\n[14:48:29.377] remote.SSH.bindHost = {}\\n[14:48:29.377]
+  remote.SSH.showLoginTerminal = false\\n[14:48:29.378]
+  remote.SSH.remotePlatform = {\\\"zzz-proxy\\\":\\\"linux\\\"}\\n[14:48:29.378]
+  remote.SSH.path = undefined\\n[14:48:29.378] remote.SSH.configFile =
+  undefined\\n[14:48:29.379] remote.SSH.useFlock = true\\n[14:48:29.379]
+  remote.SSH.lockfilesInTmp = false\\n[14:48:29.379]
+  remote.SSH.localServerDownload = auto\\n[14:48:29.380]
+  remote.SSH.remoteServerListenOnSocket = false\\n[14:48:29.380]
+  remote.SSH.defaultExtensions = []\\n[14:48:29.380]
+  remote.SSH.defaultExtensionsIfInstalledLocally = []\\n[14:48:29.381]
+  remote.SSH.loglevel = 2\\n[14:48:29.382] remote.SSH.enableDynamicForwarding =
+  true\\n[14:48:29.382] remote.SSH.enableRemoteCommand = false\\n[14:48:29.383]
+  remote.SSH.serverPickPortsFromRange = {}\\n[14:48:29.383]
+  remote.SSH.serverInstallPath = {}\\n[14:48:29.384]
+  remote.SSH.permitPtyAllocation = false\\n[14:48:29.389]
+  remote.SSH.preferredLocalPortRange = undefined\\n[14:48:29.390]
+  remote.SSH.useCurlAndWgetConfigurationFiles = false\\n[14:48:29.390]
+  remote.SSH.experimental.chat = false\\n[14:48:29.390]
+  remote.SSH.experimental.enhancedSessionLogs = false\\n[14:48:29.391]
+  remote.SSH.httpProxy = {}\\n[14:48:29.391] remote.SSH.httpsProxy =
+  {}\\n[14:48:29.472] Found relevant configuration for host zzz-proxy in JSON
+  data\\n[14:48:29.472] SSH Resolver called for host: zzz-proxy\\n[14:48:29.472]
+  Setting up SSH remote \\\"zzz-proxy\\\"\\n[14:48:29.512] Using commit id
+  \\\"7adae6a56e34cb64d08899664b814cf620465925\\\" and quality \\\"stable\\\"
+  for server\\n[14:48:29.512] Extensions to install: \\n[14:48:29.542] Install
+  and start server if needed\\n[14:48:29.562] Checking ssh with
+  \\\"C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\bin\\\\ssh.exe -V\\\"\\n[14:48:29.573] Got error
+  from ssh: spawn C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\bin\\\\ssh.exe ENOENT\\n[14:48:29.574] Checking
+  ssh with \\\"C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\libnvvp\\\\ssh.exe -V\\\"\\n[14:48:29.576] Got
+  error from ssh: spawn C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\libnvvp\\\\ssh.exe ENOENT\\n[14:48:29.577]
+  Checking ssh with
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\Scripts\
+  \\\\ssh.exe -V\\\"\\n[14:48:29.580] Got error from ssh: spawn
+  C:\\\\Users\\\\rjj\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\Scripts\\\
+  \\ssh.exe ENOENT\\n[14:48:29.580] Checking ssh with
+  \\\"C:\\\\Python313\\\\Scripts\\\\ssh.exe -V\\\"\\n[14:48:29.584] Got error
+  from ssh: spawn C:\\\\Python313\\\\Scripts\\\\ssh.exe ENOENT\\n[14:48:29.585]
+  Checking ssh with \\\"C:\\\\Python313\\\\ssh.exe -V\\\"\\n[14:48:29.587] Got
+  error from ssh: spawn C:\\\\Python313\\\\ssh.exe ENOENT\\n[14:48:29.587]
+  Checking ssh with \\\"C:\\\\WINDOWS\\\\system32\\\\ssh.exe
+  -V\\\"\\n[14:48:29.590] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\system32\\\\ssh.exe ENOENT\\n[14:48:29.590] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\ssh.exe -V\\\"\\n[14:48:29.593] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\ssh.exe ENOENT\\n[14:48:29.593] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe -V\\\"\\n[14:48:29.596] Got
+  error from ssh: spawn C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe
+  ENOENT\\n[14:48:29.597] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
+  -V\\\"\\n[14:48:29.601] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
+  ENOENT\\n[14:48:29.602] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe -V\\\"\\n[14:48:29.729] >
+  OpenSSH_for_Windows_9.5p1, LibreSSL 3.8.2\\n\\n[14:48:29.753] Running script
+  with connection command:
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 12915
+  \\\"zzz-proxy\\\" sh\\n[14:48:29.759] Generated SSH command: 'type
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-line\
+  -command-zzz-proxy-422756065.sh\\\" |
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 12915
+  \\\"zzz-proxy\\\" sh'\\n[14:48:29.760] Using connect timeout of 17
+  seconds\\n[14:48:29.763] Terminal shell path:
+  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[14:48:31.676] > 6ab766193c5d:
+  running\\n> Script executing under PID: 892528\\n[14:48:31.676] Got some
+  output, clearing connection timeout\\n[14:48:31.709] > Deleting old install
+  /home/zzz/.vscode-server/code-7adae6a56e34cb64d08899664b814cf620465925\\n>
+  Installing to /home/zzz/.vscode-server...\\n> 6ab766193c5d%%1%%\\n>
+  Downloading with wget\\n> wget is from busybox: no\\n> Program 'wget' appears
+  to support flag '--no-config'\\n[14:48:36.331] > Download
+  complete\\n[14:48:36.345] > 6ab766193c5d%%2%%\\n> tar --version: tar (GNU tar)
+  1.35\\n> Copyright (C) 2023 Free Software Foundation, Inc.\\n> License GPLv3+:
+  GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.\\n> This is
+  free software: you are free to change and redistribute it.\\n> There is NO
+  WARRANTY, to the extent permitted by law.Written by John Gilmore and Jay
+  Fenlason.\\n[14:48:36.511] > code 1.102.1 (commit
+  7adae6a56e34cb64d08899664b814cf620465925)\\n> Starting VS Code CLI...\\n>
+  Removing old logfile at
+  /home/zzz/.vscode-server/.cli.7adae6a56e34cb64d08899664b814cf620465925.log\\n>
+  Spawned remote CLI: 892626\\n> Waiting for server log...\\n[14:48:36.526] >
+  6ab766193c5d: start\\n> listeningOn==127.0.0.1:38855==\\n>
+  osReleaseId==ubuntu==\\n> arch==x86_64==\\n> vscodeArch==x64==\\n>
+  bitness==64==\\n> tmpDir==/run/user/1000==\\n> platform==linux==\\n>
+  unpackResult==success==\\n> didLocalDownload==0==\\n> downloadTime==4626==\\n>
+  installTime==153==\\n> serverStartTime==39==\\n>
+  execServerToken==11111111-a111-11a1-a111-a111aa1111a1==\\n>
+  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
+  DISPLAY====\\n> 6ab766193c5d: end\\n[14:48:36.526] Received install output:
+  \\nlisteningOn==127.0.0.1:38855==\\nosReleaseId==ubuntu==\\narch==x86_64==\\n\
+  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
+  x==\\nunpackResult==success==\\ndidLocalDownload==0==\\ndownloadTime==4626==\
+  \\ninstallTime==153==\\nserverStartTime==39==\\nexecServerToken==11111111-a11\
+  1-11a1-a111-a111aa1111a1==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUT\
+  H_SOCK====\\nDISPLAY====\\n\\n[14:48:36.528] Remote server is listening on
+  port 38855\\n[14:48:36.528] Parsed server configuration:
+  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":38855},\
+  \\\"osReleaseId\\\":\\\"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
+  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
+  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"11111111-a111-11a1\
+  -a111-a111aa1111a1\\\"},\\\"downloadTime\\\":4626,\\\"installTime\\\":153,\\\
+  \"serverStartTime\\\":39,\\\"installUnpackCode\\\":\\\"success\\\"}\\n[14:48:\
+  36.537] Starting forwarding server. local port 12926 -> socksPort 12915 ->
+  remotePort 38855\\n[14:48:36.539] Forwarding server listening on port
+  12926\\n[14:48:36.540] Waiting for ssh tunnel to be ready\\n[14:48:36.550] >
+  \\n[14:48:36.551] [Forwarding server port 12926] Got connection
+  0\\n[14:48:36.554] Tunneled port 38855 to local port 12926\\n[14:48:36.554]
+  Resolved \\\"ssh-remote+zzz-proxy\\\" to \\\"port 12926\\\"\\n[14:48:36.568]
+  Initizing new exec server for ssh-remote+zzz-proxy\\n[14:48:36.568] Resolving
+  exec server at port 12926\\n[14:48:36.572] [Forwarding server port 12926] Got
+  connection 1\\n[14:48:36.704] Exec server for ssh-remote+zzz-proxy created and
+  cached\\n[14:48:36.704] Extensions to install: \\n[14:48:36.704] Updating
+  terminal environments: {}\\n[14:48:36.708] TELEMETRY:
+  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
+  \"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
+  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
+  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
+  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
+  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"1\\\",\\\"outcome\\\
+  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":1,\\\"retries\\\
+  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":7340,\\\"timing.p\
+  reSshTime\\\":393,\\\"timing.establishSshTime\\\":1916,\\\"timing.scriptTime\\\
+  \":6765,\\\"timing.downloadTime\\\":4626,\\\"timing.installTime\\\":153,\\\"t\
+  iming.serverStartTime\\\":39}}\\n[14:48:36.715]
+  ------\\n\\n\\n\\n\\n[14:48:36.715] No hints found in the recent
+  session.\\n[14:48:36.800] [server] Checking
+  /home/zzz/.vscode-server/cli/servers/Stable-7adae6a56e34cb64d08899664b814cf62\
+  0465925/log.txt and
+  /home/zzz/.vscode-server/cli/servers/Stable-7adae6a56e34cb64d08899664b814cf62\
+  0465925/pid.txt for a running server...\\n[14:48:36.800] [server] Found
+  running server (pid=886013)\\n[14:48:45.631] Opening exec server for
+  ssh-remote+zzz-proxy\\n[14:48:45.663] Found relevant configuration for host
+  zzz-proxy in JSON data\\n[14:48:46.863] Verified and reusing cached exec
+  server for ssh-remote+zzz-proxy\\n[14:48:46.865] No hints found in the recent
+  session.\\n[14:48:48.515] Opening exec server for
+  ssh-remote+zzz-proxy\\n[14:48:48.520] Found relevant configuration for host
+  zzz-proxy in JSON data\\n[14:48:48.832] Verified and reusing cached exec
+  server for ssh-remote+zzz-proxy\\n[14:48:48.832] No hints found in the recent
+  session.\\n[14:49:19.452] TELEMETRY:
+  {\\\"eventName\\\":\\\"extraInfo\\\",\\\"properties\\\":{\\\"remoteCloud\\\":\
+  \\\"\\\"},\\\"measures\\\":{}}\\n[15:15:59.585]
+  ------\\n\\n\\n\\n\\n[15:15:59.585] SSH Resolver called for
+  \\\"ssh-remote+zzz-proxy\\\", attempt 2, (Reconnection)\\n[15:15:59.595] Found
+  relevant configuration for host zzz-proxy in JSON data\\n[15:15:59.595] SSH
+  Resolver called for host: zzz-proxy\\n[15:15:59.596] Setting up SSH remote
+  \\\"zzz-proxy\\\"\\n[15:15:59.614] Using commit id
+  \\\"7adae6a56e34cb64d08899664b814cf620465925\\\" and quality \\\"stable\\\"
+  for server\\n[15:15:59.614] Extensions to install: \\n[15:15:59.637] Install
+  and start server if needed\\n[15:15:59.651] Running script with connection
+  command: \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 3906
+  \\\"zzz-proxy\\\" sh\\n[15:15:59.653] Generated SSH command: 'type
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-line\
+  -command-zzz-proxy-875590168.sh\\\" |
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 3906
+  \\\"zzz-proxy\\\" sh'\\n[15:15:59.655] Using connect timeout of 17
+  seconds\\n[15:15:59.658] Terminal shell path:
+  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[15:16:00.926] > af760313428d:
+  running\\n> Script executing under PID: 952345\\n[15:16:00.927] Got some
+  output, clearing connection timeout\\n[15:16:00.943] > Deleting old install
+  /home/zzz/.vscode-server/code-7adae6a56e34cb64d08899664b814cf620465925\\n>
+  Installing to /home/zzz/.vscode-server...\\n> af760313428d%%1%%\\n>
+  Downloading with wget\\n> wget is from busybox: no\\n> Program 'wget' appears
+  to support flag '--no-config'\\n[15:16:05.925] > Download complete\\n>
+  af760313428d%%2%%\\n[15:16:05.940] > tar --version: tar (GNU tar) 1.35\\n>
+  Copyright (C) 2023 Free Software Foundation, Inc.\\n> License GPLv3+: GNU GPL
+  version 3 or later <https://gnu.org/licenses/gpl.html>.\\n> This is free
+  software: you are free to change and redistribute it.\\n> There is NO
+  WARRANTY, to the extent permitted by law.Written by John Gilmore and Jay
+  Fenlason.\\n[15:16:06.088] > code 1.102.1 (commit
+  7adae6a56e34cb64d08899664b814cf620465925)\\n> Starting VS Code CLI...\\n>
+  Removing old logfile at
+  /home/zzz/.vscode-server/.cli.7adae6a56e34cb64d08899664b814cf620465925.log\\n>
+  Spawned remote CLI: 952512\\n> Waiting for server log...\\n[15:16:06.103] >
+  af760313428d: start\\n> listeningOn==127.0.0.1:46115==\\n>
+  osReleaseId==ubuntu==\\n> arch==x86_64==\\n> vscodeArch==x64==\\n>
+  bitness==64==\\n> tmpDir==/run/user/1000==\\n> platform==linux==\\n>
+  unpackResult==success==\\n> didLocalDownload==0==\\n> downloadTime==4979==\\n>
+  installTime==156==\\n> serverStartTime==38==\\n>
+  execServerToken==11aa1111-1111-1111-11a1-a11aa11111aa==\\n>
+  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
+  DISPLAY====\\n> af760313428d: end\\n[15:16:06.103] Received install output:
+  \\nlisteningOn==127.0.0.1:46115==\\nosReleaseId==ubuntu==\\narch==x86_64==\\n\
+  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
+  x==\\nunpackResult==success==\\ndidLocalDownload==0==\\ndownloadTime==4979==\
+  \\ninstallTime==156==\\nserverStartTime==38==\\nexecServerToken==11aa1111-111\
+  1-1111-11a1-a11aa11111aa==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUT\
+  H_SOCK====\\nDISPLAY====\\n\\n[15:16:06.105] Remote server is listening on
+  port 46115\\n[15:16:06.105] Parsed server configuration:
+  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":46115},\
+  \\\"osReleaseId\\\":\\\"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
+  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
+  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"11aa1111-1111-1111\
+  -11a1-a11aa11111aa\\\"},\\\"downloadTime\\\":4979,\\\"installTime\\\":156,\\\
+  \"serverStartTime\\\":38,\\\"installUnpackCode\\\":\\\"success\\\"}\\n[15:16:\
+  06.118] Starting forwarding server. local port 3909 -> socksPort 3906 ->
+  remotePort 46115\\n[15:16:06.120] Forwarding server listening on port
+  3909\\n[15:16:06.121] Waiting for ssh tunnel to be ready\\n[15:16:06.127]
+  [Forwarding server port 3909] Got connection 0\\n[15:16:06.132] Tunneled port
+  46115 to local port 3909\\n[15:16:06.133] Resolved
+  \\\"ssh-remote+zzz-proxy\\\" to \\\"port 3909\\\"\\n[15:16:06.136] >
+  \\n[15:16:09.144] Existing exec server for ssh-remote+zzz-proxy timed
+  out\\n[15:16:09.144] Initizing new exec server for
+  ssh-remote+zzz-proxy\\n[15:16:09.145] Resolving exec server at port
+  3909\\n[15:16:09.150] [Forwarding server port 3909] Got connection
+  1\\n[15:16:09.284] Exec server for ssh-remote+zzz-proxy created and
+  cached\\n[15:16:09.285] Extensions to install: \\n[15:16:09.285] Updating
+  terminal environments: {}\\n[15:16:09.287] TELEMETRY:
+  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
+  \"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
+  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
+  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
+  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
+  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"1\\\",\\\"outcome\\\
+  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":2,\\\"retries\\\
+  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":9701,\\\"timing.p\
+  reSshTime\\\":71,\\\"timing.establishSshTime\\\":1271,\\\"timing.scriptTime\\\
+  \":6447,\\\"timing.downloadTime\\\":4979,\\\"timing.installTime\\\":156,\\\"t\
+  iming.serverStartTime\\\":38}}\\n[15:16:09.295]
+  ------\\n\\n\\n\\n\"}],\"createdAt\":\"2025-09-05T06:48:29.170Z\"},{\"hints\"\
+  :[{\"type\":\"environment\",\"message\":\"VS Code version:
+  1.102.1\"},{\"type\":\"environment\",\"message\":\"Remote-SSH version:
+  remote-ssh@0.120.0\"},{\"type\":\"environment\",\"message\":\"win32
+  x64\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'useLocalServer' is set to value 'false'\",\"details\":\"Enables a mode for
+  connecting using a single connection shared between windows and across window
+  reloads. This makes it faster to open new windows and reduces the number of
+  times a password needs to be
+  entered.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'useExecServer' is set to value 'true'\",\"details\":\"Uses the a new
+  bootstrapping mode when connecting to a server. Can be toggled off in the
+  event of connection
+  issues.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'bindHost' is set to value '{}'\",\"details\":\"Configures the host the VS
+  Code server will bind to on the remote server. It defaults to IPv4 localhost
+  and should only need modification in advanced
+  cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'showLoginTerminal' is set to value 'false'\",\"details\":\"Always reveal the
+  SSH login terminal.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'remotePlatform' is set to value
+  '{\\\"zzz-proxy\\\":\\\"linux\\\"}'\",\"details\":\"A map of the remote
+  hostname to the platform for that remote. The hostname may include a star '*'
+  to wildcard match. Valid values: `linux`, `macOS`, `windows`. Note - this
+  setting will soon be required when `#remote.SSH.useLocalServer#` is disabled,
+  so it is currently being autopopulated for successful connections, but is not
+  currently used.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'path' is set to value 'undefined'\",\"details\":\"An absolute path to the SSH
+  executable. When empty, it will use \\\"ssh\\\" on the path or in common
+  install locations.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'configFile' is set to value 'undefined'\",\"details\":\"The absolute
+  file path to a custom SSH config
+  file.\"},{\"type\":\"environment\",\"message\":\"Extension setting 'useFlock'
+  is set to value 'true'\",\"details\":\"Whether to use `flock` for creating
+  lockfiles on Linux remotes instead of `ln`. By default, we use `flock` on
+  Linux remotes and `ln` on
+  macOS.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'lockfilesInTmp' is set to value 'false'\",\"details\":\"Whether to keep
+  lockfiles in `/tmp` instead of in the server's install folder. Useful for
+  connecting to hosts which have issues with locking, such as hosts with a home
+  directory using NFS or another distributed
+  filesystem.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'localServerDownload' is set to value 'auto'\",\"details\":\"Whether the
+  extension can download the VS Code Server on the client and transfer it to the
+  host with scp, instead of downloading it on the
+  host.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'remoteServerListenOnSocket' is set to value 'false'\",\"details\":\"When
+  true, the remote VS Code server will listen on a socket path instead of
+  opening a port. Only valid for Linux and macOS remotes. After toggling this
+  setting, run the command \\\"Kill VS Code Server on Host...\\\" for it to take
+  effect. Requires OpenSSH 6.7+. Disables the \\\"local server\\\" connection
+  multiplexing mode. Requires `AllowStreamLocalForwarding` to be enabled for the
+  SSH server.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'defaultExtensions' is set to value '[]'\",\"details\":\"List of extensions
+  that should be installed automatically on all SSH
+  hosts.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'defaultExtensionsIfInstalledLocally' is set to value
+  '[]'\"},{\"type\":\"environment\",\"message\":\"Extension setting 'loglevel'
+  is set to value '2'\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'enableDynamicForwarding' is set to value
+  'true'\",\"details\":\"Whether to use SSH dynamic forwarding to allow setting
+  up new port tunnels over an existing SSH connection. When this is used, a
+  password only needs to be entered once for each remote
+  window.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'enableRemoteCommand' is set to value
+  'false'\",\"details\":\"**Experimental:** Enable using RemoteCommands from ssh
+  config entries. This is only enabled if `#remote.SSH.useLocalServer#` is
+  enabled as well and the remote you are trying to connect to is not listed
+  under the `#remote.SSH.remotePlatform#`
+  setting.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'serverPickPortsFromRange' is set to value '{}'\",\"details\":\"A map of the
+  remote hostname to a range of ports you'd prefer the server to connect to on
+  launch on the **remote** machine. If no free port is found in range, an error
+  will be thrown. Valid ranges of the form `number-number` such as `4000-5000`;
+  it's expected the first number will be lower than the
+  next.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'serverInstallPath' is set to value '{}'\",\"details\":\"A map of remote host
+  to absolute path where the VS Code server will be installed. By default the
+  server is installed in the home directory of every remote. **Note**: By
+  changing this setting you may need to clean up other installations of
+  `.vscode-server` on your remote that isn't in the path you've
+  configured.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'permitPtyAllocation' is set to value 'false'\",\"details\":\"Permits the
+  system to allocate a pseudo-terminal for the SSH connection (by omitting the
+  '-T' SSH connection flag). This setting is disabled by default and may be
+  enabled to support specific
+  use-cases.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'preferredLocalPortRange' is set to value 'undefined'\",\"details\":\"A range
+  of **local** ports preferred to utilize for the SSH tunnel connection. If no
+  free port is found in range, an error will be thrown. Valid ranges of the form
+  `number-number` such as `4000-5000`; it's expected the first number will be
+  lower than the next.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'useCurlAndWgetConfigurationFiles' is set to value
+  'false'\",\"details\":\"Respect configuration from remote environment's
+  'curlrc' and 'wgetrc' files (placed in their respective default
+  locations).  Enabling this setting may be useful in certain cases (i.e: proxy
+  configuration) but can interfere with this extension's operation. Setting may
+  be ignored on platforms that do not support the necessary flags (i.e:
+  busybox).\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'experimental.chat' is set to value 'false'\",\"details\":\"Enables an
+  experimental Copilot Chat Participant.  Use natural language to learn about
+  Remote - SSH and diagnose connection issues.  For the best experience, use VS
+  Code Insiders and ensure you have the latest Copilot Chat extension
+  installed.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'experimental.enhancedSessionLogs' is set to value
+  'false'\",\"details\":\"Generates a summarized table of issues detected from
+  the previous session.\"},{\"type\":\"environment\",\"message\":\"Extension
+  setting 'httpProxy' is set to value '{}'\",\"details\":\"Set the 'http_proxy'
+  environment variable.  This will be set for install and launch of the remote
+  VS Code Server. Provide a string to set for all hosts, or an object with
+  per-host configuration. Kill existing server on the remote for this setting to
+  take effect.\"},{\"type\":\"environment\",\"message\":\"Extension setting
+  'httpsProxy' is set to value '{}'\",\"details\":\"Set the 'https_proxy'
+  environment variable.  This will be set for install and launch of the remote
+  VS Code Server. Provide a string to set for all hosts, or an object with
+  per-host configuration. Kill existing server on the remote for this setting to
+  take effect.\"},{\"type\":\"log\",\"message\":\"[15:53:27.139] Log Level:
+  2\\n[15:53:27.241] VS Code version: 1.102.1\\n[15:53:27.242] Remote-SSH
+  version: remote-ssh@0.120.0\\n[15:53:27.242] win32 x64\\n[15:53:27.311] SSH
+  Resolver called for \\\"ssh-remote+zzz-proxy\\\", attempt 1\\n[15:53:27.326]
+  remote.SSH.useLocalServer = false\\n[15:53:27.327] remote.SSH.useExecServer =
+  true\\n[15:53:27.328] remote.SSH.bindHost = {}\\n[15:53:27.328]
+  remote.SSH.showLoginTerminal = false\\n[15:53:27.329]
+  remote.SSH.remotePlatform = {\\\"zzz-proxy\\\":\\\"linux\\\"}\\n[15:53:27.329]
+  remote.SSH.path = undefined\\n[15:53:27.330] remote.SSH.configFile =
+  undefined\\n[15:53:27.330] remote.SSH.useFlock = true\\n[15:53:27.330]
+  remote.SSH.lockfilesInTmp = false\\n[15:53:27.331]
+  remote.SSH.localServerDownload = auto\\n[15:53:27.331]
+  remote.SSH.remoteServerListenOnSocket = false\\n[15:53:27.332]
+  remote.SSH.defaultExtensions = []\\n[15:53:27.336]
+  remote.SSH.defaultExtensionsIfInstalledLocally = []\\n[15:53:27.337]
+  remote.SSH.loglevel = 2\\n[15:53:27.337] remote.SSH.enableDynamicForwarding =
+  true\\n[15:53:27.338] remote.SSH.enableRemoteCommand = false\\n[15:53:27.340]
+  remote.SSH.serverPickPortsFromRange = {}\\n[15:53:27.340]
+  remote.SSH.serverInstallPath = {}\\n[15:53:27.341]
+  remote.SSH.permitPtyAllocation = false\\n[15:53:27.343]
+  remote.SSH.preferredLocalPortRange = undefined\\n[15:53:27.344]
+  remote.SSH.useCurlAndWgetConfigurationFiles = false\\n[15:53:27.344]
+  remote.SSH.experimental.chat = false\\n[15:53:27.345]
+  remote.SSH.experimental.enhancedSessionLogs = false\\n[15:53:27.345]
+  remote.SSH.httpProxy = {}\\n[15:53:27.346] remote.SSH.httpsProxy =
+  {}\\n[15:53:27.417] Found relevant configuration for host zzz-proxy in JSON
+  data\\n[15:53:27.418] SSH Resolver called for host: zzz-proxy\\n[15:53:27.418]
+  Setting up SSH remote \\\"zzz-proxy\\\"\\n[15:53:27.460] Using commit id
+  \\\"7adae6a56e34cb64d08899664b814cf620465925\\\" and quality \\\"stable\\\"
+  for server\\n[15:53:27.461] Extensions to install: \\n[15:53:27.486] Install
+  and start server if needed\\n[15:53:27.498] Checking ssh with
+  \\\"C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\bin\\\\ssh.exe -V\\\"\\n[15:53:27.509] Got error
+  from ssh: spawn C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\bin\\\\ssh.exe ENOENT\\n[15:53:27.510] Checking
+  ssh with \\\"C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\libnvvp\\\\ssh.exe -V\\\"\\n[15:53:27.513] Got
+  error from ssh: spawn C:\\\\Program Files\\\\NVIDIA GPU Computing
+  Toolkit\\\\CUDA\\\\v12.0\\\\libnvvp\\\\ssh.exe ENOENT\\n[15:53:27.514]
+  Checking ssh with
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\Scripts\
+  \\\\ssh.exe -V\\\"\\n[15:53:27.520] Got error from ssh: spawn
+  C:\\\\Users\\\\rjj\\\\AppData\\\\Roaming\\\\Python\\\\Python313\\\\Scripts\\\
+  \\ssh.exe ENOENT\\n[15:53:27.521] Checking ssh with
+  \\\"C:\\\\Python313\\\\Scripts\\\\ssh.exe -V\\\"\\n[15:53:27.525] Got error
+  from ssh: spawn C:\\\\Python313\\\\Scripts\\\\ssh.exe ENOENT\\n[15:53:27.526]
+  Checking ssh with \\\"C:\\\\Python313\\\\ssh.exe -V\\\"\\n[15:53:27.529] Got
+  error from ssh: spawn C:\\\\Python313\\\\ssh.exe ENOENT\\n[15:53:27.529]
+  Checking ssh with \\\"C:\\\\WINDOWS\\\\system32\\\\ssh.exe
+  -V\\\"\\n[15:53:27.536] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\system32\\\\ssh.exe ENOENT\\n[15:53:27.536] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\ssh.exe -V\\\"\\n[15:53:27.541] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\ssh.exe ENOENT\\n[15:53:27.541] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe -V\\\"\\n[15:53:27.546] Got
+  error from ssh: spawn C:\\\\WINDOWS\\\\System32\\\\Wbem\\\\ssh.exe
+  ENOENT\\n[15:53:27.547] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
+  -V\\\"\\n[15:53:27.554] Got error from ssh: spawn
+  C:\\\\WINDOWS\\\\System32\\\\WindowsPowerShell\\\\v1.0\\\\ssh.exe
+  ENOENT\\n[15:53:27.555] Checking ssh with
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe -V\\\"\\n[15:53:27.694] >
+  OpenSSH_for_Windows_9.5p1, LibreSSL 3.8.2\\n\\n[15:53:27.713] Running script
+  with connection command:
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 7336
+  \\\"zzz-proxy\\\" sh\\n[15:53:27.718] Generated SSH command: 'type
+  \\\"C:\\\\Users\\\\rjj\\\\AppData\\\\Local\\\\Temp\\\\vscode-linux-multi-line\
+  -command-zzz-proxy-142420305.sh\\\" |
+  \\\"C:\\\\WINDOWS\\\\System32\\\\OpenSSH\\\\ssh.exe\\\" -T -D 7336
+  \\\"zzz-proxy\\\" sh'\\n[15:53:27.720] Using connect timeout of 17
+  seconds\\n[15:53:27.722] Terminal shell path:
+  C:\\\\WINDOWS\\\\System32\\\\cmd.exe\\n[15:53:29.272] > 115b54b6a38b:
+  running\\n> Script executing under PID: 1059809\\n> Deleting old install
+  /home/zzz/.vscode-server/code-7adae6a56e34cb64d08899664b814cf620465925\\n[15:\
+  53:29.273] Got some output, clearing connection timeout\\n[15:53:29.275] >
+  Installing to /home/zzz/.vscode-server...\\n> 115b54b6a38b%%1%%\\n>
+  Downloading with wget\\n> wget is from busybox: no\\n> Program 'wget' appears
+  to support flag '--no-config'\\n[15:53:35.217] > Download complete\\n>
+  115b54b6a38b%%2%%\\n> tar --version: tar (GNU tar) 1.35\\n> Copyright (C) 2023
+  Free Software Foundation, Inc.\\n> License GPLv3+: GNU GPL version 3 or later
+  <https://gnu.org/licenses/gpl.html>.\\n> This is free software: you are free
+  to change and redistribute it.\\n> There is NO WARRANTY, to the extent
+  permitted by law.Written by John Gilmore and Jay Fenlason.\\n[15:53:35.368] >
+  code 1.102.1 (commit 7adae6a56e34cb64d08899664b814cf620465925)\\n> Starting VS
+  Code CLI...\\n> Removing old logfile at
+  /home/zzz/.vscode-server/.cli.7adae6a56e34cb64d08899664b814cf620465925.log\\n>
+  Spawned remote CLI: 1059982\\n> Waiting for server log...\\n[15:53:35.383] >
+  115b54b6a38b: start\\n> listeningOn==127.0.0.1:35355==\\n>
+  osReleaseId==ubuntu==\\n> arch==x86_64==\\n> vscodeArch==x64==\\n>
+  bitness==64==\\n> tmpDir==/run/user/1000==\\n> platform==linux==\\n>
+  unpackResult==success==\\n> didLocalDownload==0==\\n> downloadTime==5923==\\n>
+  installTime==152==\\n> serverStartTime==40==\\n>
+  execServerToken==1111a1a1-11aa-1a1a-1111-11a11a1aa111==\\n>
+  platformDownloadPath==cli-alpine-x64==\\n> SSH_AUTH_SOCK====\\n>
+  DISPLAY====\\n> 115b54b6a38b: end\\n[15:53:35.384] Received install output:
+  \\nlisteningOn==127.0.0.1:35355==\\nosReleaseId==ubuntu==\\narch==x86_64==\\n\
+  vscodeArch==x64==\\nbitness==64==\\ntmpDir==/run/user/1000==\\nplatform==linu\
+  x==\\nunpackResult==success==\\ndidLocalDownload==0==\\ndownloadTime==5923==\
+  \\ninstallTime==152==\\nserverStartTime==40==\\nexecServerToken==1111a1a1-11a\
+  a-1a1a-1111-11a11a1aa111==\\nplatformDownloadPath==cli-alpine-x64==\\nSSH_AUT\
+  H_SOCK====\\nDISPLAY====\\n\\n[15:53:35.386] Remote server is listening on
+  port 35355\\n[15:53:35.387] Parsed server configuration:
+  {\\\"serverConfiguration\\\":{\\\"remoteListeningOn\\\":{\\\"port\\\":35355},\
+  \\\"osReleaseId\\\":\\\"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"sshAuthSock\
+  \\\":\\\"\\\",\\\"display\\\":\\\"\\\",\\\"tmpDir\\\":\\\"/run/user/1000\\\",\
+  \\\"platform\\\":\\\"linux\\\",\\\"execServerToken\\\":\\\"1111a1a1-11aa-1a1a\
+  -1111-11a11a1aa111\\\"},\\\"downloadTime\\\":5923,\\\"installTime\\\":152,\\\
+  \"serverStartTime\\\":40,\\\"installUnpackCode\\\":\\\"success\\\"}\\n[15:53:\
+  35.397] > \\n[15:53:35.407] Starting forwarding server. local port 7639 ->
+  socksPort 7336 -> remotePort 35355\\n[15:53:35.412] Forwarding server
+  listening on port 7639\\n[15:53:35.412] Waiting for ssh tunnel to be
+  ready\\n[15:53:35.424] [Forwarding server port 7639] Got connection
+  0\\n[15:53:35.428] Tunneled port 35355 to local port 7639\\n[15:53:35.428]
+  Resolved \\\"ssh-remote+zzz-proxy\\\" to \\\"port 7639\\\"\\n[15:53:35.459]
+  Initizing new exec server for ssh-remote+zzz-proxy\\n[15:53:35.459] Resolving
+  exec server at port 7639\\n[15:53:35.474] [Forwarding server port 7639] Got
+  connection 1\\n[15:53:35.639] Exec server for ssh-remote+zzz-proxy created and
+  cached\\n[15:53:35.639] Extensions to install: \\n[15:53:35.639] Updating
+  terminal environments: {}\\n[15:53:35.648] TELEMETRY:
+  {\\\"eventName\\\":\\\"resolver\\\",\\\"properties\\\":{\\\"osReleaseId\\\":\\\
+  \"ubuntu\\\",\\\"arch\\\":\\\"x86_64\\\",\\\"askedPw\\\":\\\"0\\\",\\\"askedP\
+  assphrase\\\":\\\"0\\\",\\\"asked2fa\\\":\\\"0\\\",\\\"askedHostKey\\\":\\\"0\
+  \\\",\\\"remoteInConfigFile\\\":\\\"1\\\",\\\"gotUnrecognizedPrompt\\\":\\\"0\
+  \\\",\\\"dynamicForwarding\\\":\\\"1\\\",\\\"localServer\\\":\\\"0\\\",\\\"di\
+  dLocalDownload\\\":\\\"0\\\",\\\"installUnpackCode\\\":\\\"1\\\",\\\"outcome\\\
+  \":\\\"success\\\"},\\\"measures\\\":{\\\"resolveAttempts\\\":1,\\\"retries\\\
+  \":1,\\\"isExecServer\\\":1,\\\"timing.totalResolveTime\\\":8335,\\\"timing.p\
+  reSshTime\\\":411,\\\"timing.establishSshTime\\\":1553,\\\"timing.scriptTime\\\
+  \":7663,\\\"timing.downloadTime\\\":5923,\\\"timing.installTime\\\":152,\\\"t\
+  iming.serverStartTime\\\":40}}\\n[15:53:35.658]
+  ------\\n\\n\\n\\n\"}],\"createdAt\":\"2025-09-05T07:53:27.146Z\"}],\"folder.\
+  history.v1\":{\"zzz\":[\"/home/data/workspaces/workspace\",\"/home/data/works\
+  paces/ab\",\"/home/data/workspaces/arkime\",\"/home/zzz/deployments/assemblyl\
+  ine\",\"/home/data/workspaces/assemblyline-docker-compose\",\"/home/data/work\
+  spaces/ab/server/chat/python/synapse\",\"/home/data/workspaces/exps\",\"/home\
+  /data/workspaces/workspace/doctoral/anonymity/_code/imbalanced_traffic_classi\
+  fication\",\"/home/data/workspaces/tor\"],\"zzz_proxy\":[\"/home/data/workspa\
+  ces/ab\",\"/home/data/workspaces/Arkime-SS\",\"/home/data/workspaces/workspace\
+  \",\"/home/data/workspaces/gitea_docs\",\"/home/data/workspaces/ab/server/cha\
+  t/python/synapse\",\"/home/data/workspaces/workspace/doctoral/anonymity/_code\
+  /imbalanced_traffic_classification/libs/sliding_topk\",\"/home/data/workspace\
+  s/element-docker-demo\",\"/home/data/workspaces/workspace/doctoral/anonymity/\
+  _code/imbalanced_traffic_classification\"],\"zzz-proxy\":[\"/home/data/worksp\
+  aces/workspace\",\"/home/data/workspaces/meshsdk\",\"/home/data/workspaces/ai\
+  -stomatology/server/electron_release_server\",\"/home/data/workspaces/workspa\
+  ce/doctoral/anonymity/_code/imbalanced_traffic_classification\",\"/home/data/\
+  workspaces/ai-stomatology\",\"/home/data/workspaces/blockbench\",\"/home/data\
+  /workspaces/blockbench.net\",\"/home/data/workspaces/workspace/doctoral/anony\
+  mity/_code/backbone_traffic_detection\",\"/home/data/workspaces/darknet_tc_sy\
+  stem\",\"/home/data/workspaces/ai-stomatology/libs/as-mesh/asmesh\",\"/home/d\
+  ata/workspaces/al-ui\",\"/home/data/workspaces/three.js\",\"/home/data/worksp\
+  aces/workspace/doctoral/anonymity/_paper/imbalanced_traffic_classification\",\
+  \"/home/data/workspaces/geogram\",\"/home/data/workspaces/ab\",\"/home/data/w\
+  orkspaces/Malcolm\",\"/home/data/workspaces/quadratic-selfhost\"],\"zzz_66-pr\
+  oxy\":[\"/home/data/workspaces/as-mesh\"]},\"localExtensions\":[\"adpyke.code\
+  snap\",\"AESSoft.aessoft-class-autocomplete\",\"ahmadalli.vscode-nginx-conf\",\
+  \"alefragnani.Bookmarks\",\"alefragnani.rtf\",\"alpinebuster.vscode-latex-tab\
+  le-editor\",\"arcticicestudio.nord-visual-studio-code\",\"batisteo.vscode-dja\
+  ngo\",\"bbenoist.Nix\",\"bierner.emojisense\",\"bierner.markdown-mermaid\",\"\
+  bradlc.vscode-tailwindcss\",\"chouzz.vscode-better-align\",\"christian-kohler\
+  .path-intellisense\",\"CimpeanAndrei.linux-terminal-flat\",\"codezombiech.git\
+  ignore\",\"cschlosser.doxdocgen\",\"csstools.postcss\",\"DavidAnson.vscode-ma\
+  rkdownlint\",\"dbaeumer.vscode-eslint\",\"docsmsft.docs-markdown\",\"donjayam\
+  anne.githistory\",\"DotJoshJohnson.xml\",\"ecmel.vscode-html-css\",\"flowtype\
+  .flow-for-vscode\",\"GitHub.github-vscode-theme\",\"GitHub.remotehub\",\"gith\
+  ub.vscode-github-actions\",\"GitHub.vscode-pull-request-github\",\"golang.go\
+  \",\"GrapeCity.gc-excelviewer\",\"GraphQL.vscode-graphql\",\"GraphQL.vscode-g\
+  raphql-syntax\",\"Gruntfuggly.todo-tree\",\"hangxingliu.vscode-systemd-support\
+  \",\"haskell.haskell\",\"hbenl.vscode-test-explorer\",\"hediet.vscode-drawio\
+  \",\"HTMLHint.vscode-htmlhint\",\"humao.rest-client\",\"James-Yu.latex-worksh\
+  op\",\"jock.svg\",\"justusadam.language-haskell\",\"k-kuroguro.csv2latex\",\"\
+  kisstkondoros.vscode-gutter-preview\",\"llvm-vs-code-extensions.lldb-dap\",\"\
+  LoyieKing.smalise\",\"luveti.kconfig\",\"maelvalais.autoconf\",\"mathematic.v\
+  scode-pdf\",\"mayank8197d.texetch\",\"mechatroner.rainbow-csv\",\"medzhidov.h\
+  ex-rgba-converter\",\"mikestead.dotenv\",\"mohsen1.prettify-json\",\"mongodb.\
+  mongodb-vscode\",\"ms-azuretools.vscode-docker\",\"ms-kubernetes-tools.vscode\
+  -kubernetes-tools\",\"ms-ossdata.vscode-postgresql\",\"ms-playwright.playwrig\
+  ht\",\"ms-python.black-formatter\",\"ms-python.debugpy\",\"ms-python.isort\",\
+  \"ms-python.python\",\"ms-python.vscode-pylance\",\"ms-toolsai.jupyter\",\"ms\
+  -toolsai.jupyter-keymap\",\"ms-toolsai.jupyter-renderers\",\"ms-toolsai.tenso\
+  rboard\",\"ms-toolsai.vscode-jupyter-cell-tags\",\"ms-toolsai.vscode-jupyter-\
+  slideshow\",\"ms-vscode-remote.remote-containers\",\"ms-vscode-remote.remote-\
+  ssh\",\"ms-vscode-remote.remote-ssh-edit\",\"ms-vscode-remote.remote-wsl\",\"\
+  ms-vscode-remote.vscode-remote-extensionpack\",\"ms-vscode.cmake-tools\",\"ms\
+  -vscode.cpptools\",\"ms-vscode.cpptools-themes\",\"ms-vscode.hexeditor\",\"ms\
+  -vscode.remote-explorer\",\"ms-vscode.remote-repositories\",\"ms-vscode.remot\
+  e-server\",\"ms-vscode.test-adapter-converter\",\"ms-vscode.vscode-typescript\
+  -next\",\"ms-vsliveshare.vsliveshare\",\"mtxr.sqltools\",\"mtxr.sqltools-driv\
+  er-mysql\",\"mtxr.sqltools-driver-pg\",\"mtxr.sqltools-driver-sqlite\",\"Nati\
+  zyskunk.sftp\",\"naumovs.color-highlight\",\"njpwerner.autodocstring\",\"nvid\
+  ia.nsight-vscode-edition\",\"oderwat.indent-rainbow\",\"Percy.vscode-numpy-vi\
+  ewer\",\"phr0s.bib\",\"pranaygp.vscode-css-peek\",\"quicktype.quicktype\",\"q\
+  wtel.sqlite-viewer\",\"redhat.vscode-xml\",\"redhat.vscode-yaml\",\"ritwickde\
+  y.LiveServer\",\"rust-lang.rust-analyzer\",\"ryu1kn.partial-diff\",\"samuelco\
+  lvin.jinjahtml\",\"samueletorregrossa.compress-download-extension\",\"sankooc\
+  .pcapviewer\",\"scala-lang.scala\",\"streetsidesoftware.code-spell-checker\",\
+  \"Surendrajat.apklab\",\"svelte.svelte-vscode\",\"sysoev.language-stylus\",\"\
+  tamasfe.even-better-toml\",\"timonwong.shellcheck\",\"tinkertrain.theme-panda\
+  \",\"tommorris.mako\",\"trond-snekvik.simple-rst\",\"unifiedjs.vscode-mdx\",\
+  \"usernamehw.errorlens\",\"vadimcn.vscode-lldb\",\"VisualStudioExptTeam.intel\
+  licode-api-usage-examples\",\"VisualStudioExptTeam.vscodeintellicode\",\"vsco\
+  de-icons-team.vscode-icons\",\"vsls-contrib.codetour\",\"Vue.volar\",\"wayou.\
+  vscode-todo-highlight\",\"wholroyd.jinja\",\"william-voyek.vscode-nginx\",\"w\
+  ix.vscode-import-cost\",\"WyattFerguson.jinja2-snippet-kit\",\"xdebug.php-deb\
+  ug\",\"zeshuaro.vscode-python-poetry\",\"ZhangYue.rust-mod-generator\",\"zxh4\
+  04.vscode-proto3\"]}"
+ms-vscode.cmake-tools: '{"/home/data/workspaces/toractiveVariantSettings":[["buildType","debug"]],"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"kitsVersionSaved":2,"/home/data/workspaces/workspace/doctoral/anonymity/_code/imbalanced_traffic_classificationactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/workspaceactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/arkimeactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\ai-stomatologyactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\geogramactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/geogramactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\meshlibactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\imgui-jsactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/as-meshactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/ai-stomatology/libs/as-mesh/asmeshactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/ai-stomatologyactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/meshlibactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\ai-stomatology\\libs\\as-meshactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/meshsdkactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\meshsdkactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/meshsdkactiveKitName":"Clang
+  18.1.3 x86_64-pc-linux-gnu"}'
+ms-vscode.cpptools: '{"CPP.1.22.11.Progress":300,"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentgemini:31366296;6abeh943:31336334;0927b901:31350571;aa_c:31379599;0cj2b977:31352657;0574c672:31362109;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/gemini-2.5-pro","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"CPP.1.22.11.ignoreMismatchedCompatibleVsix":false,"CPP.machineId":"c99f96660d1243b5d5171409f37cebebce342909b6dc2af575bf3a1d33db6aa4","CPP.1.22.11.checkForConflictingExtensions":false,"CPP.1.23.5.Progress":300,"CPP.1.23.5.ignoreMismatchedCompatibleVsix":false,"CPP.migratedInsiders":false,"CPP.1.23.5.checkForConflictingExtensions":false,"CPP.lastWorkspaceFallbackEncoding":"utf8","CPP.referencesGroupByFile":false,"CPP.1.23.6.Progress":300,"CPP.1.23.6.ignoreMismatchedCompatibleVsix":false,"CPP.1.23.6.checkForConflictingExtensions":false,"CPP.1.24.5.Progress":300,"CPP.1.24.5.ignoreMismatchedCompatibleVsix":false,"CPP.1.24.5.checkForConflictingExtensions":false,"CPP.1.25.3.Progress":300,"CPP.1.25.3.ignoreMismatchedCompatibleVsix":false,"CPP.1.25.3.checkForConflictingExtensions":false,"CPP.1.25.3.IntelliSenseProgress":1000,"Cpp.didEditorConfigNotice":true,"CPP.1.26.3.Progress":300,"CPP.1.26.3.ignoreMismatchedCompatibleVsix":false,"CPP.1.26.3.checkForConflictingExtensions":false,"CPP.1.26.3.IntelliSenseProgress":1000,"CPP.displayedPreReleasePrompt":true,"CPP.isOnPreRelease":false}'
+ms-vscode.remote-repositories: '{"version":"0.42.0","has:committed":true}'
+ms-vscode.remote-server: '{"tunnelClearSessionOnNextProvider":false,"remote-tunnels.folder-history":{}}'
+ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
+streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
+VisualStudioExptTeam.intellicode-api-usage-examples: '{"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+VisualStudioExptTeam.vscodeintellicode: '{"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","intellicodeaacf","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;vsint734cf:30416763;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","intellicodeaa":false,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+Vue.volar: '{"vue-welcome":"3.0.6"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.views.service.sidebar.b4f645cf-fc44-4170-af7d-c1d1b852349f","pinned":true,"visible":false},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.githd-explorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.cmake-view","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.sqltoolsActivityBarContainer","pinned":true,"visible":false,"order":25},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cl_eide_view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlab-duo","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlab-workflow","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.data-wrangler-primary","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.taskActivity","pinned":true,"visible":false,"order":28},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.kubernetesView","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.package-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.chatgpt-vscode-view-container","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.sftp","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.workspaceViewer","pinned":true,"visible":false,"order":24},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":false,"order":25},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.tabnine","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.codeium","pinned":true,"visible":false,"order":9},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"workbench.views.service.sidebar.faf4aedb-9c8b-4747-b796-236399094b24","pinned":true,"visible":false},{"id":"workbench.views.service.sidebar.8d4292cd-ec82-4283-8a27-b5fe33f7f1b3","pinned":true,"visible":false},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":25}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{},{}]},{\"id\":\"workbench.view.search\",\"themeIcon\
+  \":{\"id\":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"vie\
+  ws\":[{}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-cont\
+  rol-view-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.views.service.\
+  sidebar.b4f645cf-fc44-4170-af7d-c1d1b852349f\",\"themeIcon\":{\"id\":\"source\
+  -control-view-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{},{\"when\":\"scm.providerCount &&
+  scm.providerCount != '0'\"},{\"when\":\"scm.historyProviderCount &&
+  scm.historyProviderCount !=
+  '0'\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-ic\
+  on\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"},{\"when\":\"inDebugMode
+  && lldb-dap.showModules && debugType ==
+  'lldb-dap'\"},{\"when\":\"cpptools.enableSshTargetsView\"},{\"when\":\"config\
+  .rust-analyzer.showDependenciesExplorer &&
+  inRustProject\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\
+  \":\"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"vie\
+  ws\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExtensionUpdates
+  || searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledMcpServers\"},{\"when\":\"defaultExtensionViews &&
+  !chatSetupHidden &&
+  !hasInstalledMcpServers\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
+  \":\"installedExtensions ||
+  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"sea\
+  rchMcpServers\"}]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"\
+  remote-explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{},{\"when\":\"!hideConnectComman\
+  ds\"},{\"when\":\"remote-containers:showDetails &&
+  !hideConnectCommands\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workb\
+  ench.view.extension.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXT\
+  ENSION_DATA_PATH%%/ms-azuretools.vscode-containers-2.1.0/resources/ContainerT\
+  ools.svg\",\"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\":false,\
+  \"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension.github-p\
+  ull-requests\",\"themeIcon\":{\"id\":\"github\"},\"name\":\"GitHub\",\"isBuil\
+  tin\":false,\"views\":[{\"when\":\"ReposManagerStateContext ==
+  'NeedsAuthentication'\"},{\"when\":\"!github:resolvingConflicts &&
+  ReposManagerStateContext !=
+  'NeedsAuthentication'\"},{\"when\":\"!github:resolvingConflicts &&
+  ReposManagerStateContext !=
+  'NeedsAuthentication'\"},{\"when\":\"!github:resolvingConflicts &&
+  ReposManagerStateContext !=
+  'NeedsAuthentication'\"},{\"when\":\"github:resolvingConflicts\"}]},{\"id\":\
+  \"workbench.view.extension.python\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTE\
+  NSION_DATA_PATH%%/ms-python.vscode-python-envs-1.2.0-win32-x64/files/logo.svg\
+  \",\"scheme\":\"file\"},\"name\":\"Python\",\"isBuiltin\":false,\"views\":[{\
+  \"when\":\"config.python.useEnvironmentsExtension\"},{\"when\":\"config.pytho\
+  n.useEnvironmentsExtension\"}]},{\"id\":\"workbench.view.extension.makefile__\
+  viewContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms\
+  -vscode.makefile-tools-0.12.17/res/viewcontainer.svg\",\"scheme\":\"file\"},\
+  \"name\":\"Makefile\",\"isBuiltin\":false,\"views\":[{\"when\":\"isWorkspaceT\
+  rusted ||
+  makefile:testing\"}]},{\"id\":\"workbench.view.extension.githd-explorer\",\"i\
+  conUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/huizhou.githd-2.5.6/m\
+  edia/icons/githd.svg\",\"scheme\":\"file\"},\"name\":\"GitHD\",\"isBuiltin\":\
+  false,\"views\":[{\"when\":\"githd.hasGitRepo\"}]},{\"id\":\"workbench.view.e\
+  xtension.cmake-view\",\"themeIcon\":{\"id\":\"cmake-tools-cmake-view-2\"},\"n\
+  ame\":\"CMake\",\"isBuiltin\":false,\"views\":[{\"when\":\"cmake:enableFullFe\
+  atureSet\"},{\"when\":\"cmake:enableFullFeatureSet\"},{\"when\":\"cmake:enabl\
+  eFullFeatureSet\"}]},{\"id\":\"workbench.view.extension.sqltoolsActivityBarCo\
+  ntainer\",\"name\":\"SQLTools\",\"isBuiltin\":false},{\"id\":\"workbench.view\
+  .extension.todo-tree-container\",\"name\":\"TODOs\",\"isBuiltin\":false},{\"id\
+  \":\"workbench.view.extension.github-actions\",\"name\":\"GitHub
+  Actions\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.cl_eide_view\
+  \",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.github-pull-request\
+  \",\"themeIcon\":{\"id\":\"git-pull-request\"},\"name\":\"GitHub Pull
+  Request\",\"isBuiltin\":false,\"views\":[{\"when\":\"github:createPullRequest
+  ||
+  github:revertPullRequest\"},{\"when\":\"github:createPullRequest\"},{\"when\":\
+  \"github:createPullRequest\"},{\"when\":\"github:inReviewMode &&
+  !github:createPullRequest &&
+  !github:revertPullRequest\"},{\"when\":\"github:focusedReview &&
+  github:inReviewMode && !github:createPullRequest && !github:revertPullRequest
+  && github:activePRCount <= 1\"},{\"when\":\"github:focusedReview &&
+  !github:stateValidated\"}]},{\"id\":\"workbench.view.extension.gitlab-duo\",\
+  \"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlab-workflow\",\"i\
+  sBuiltin\":false},{\"id\":\"workbench.view.extension.dockerView\",\"name\":\"\
+  Docker\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.data-wrangle\
+  r-primary\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.hexExplor\
+  er\",\"name\":\"Hex
+  Editor\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.latex-worksh\
+  op-activitybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/j\
+  ames-yu.latex-workshop-10.10.2/icons/activity-bar.svg\",\"scheme\":\"file\"},\
+  \"name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex-workshop:\
+  enabled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-workshop:e\
+  nabled\"}]},{\"id\":\"workbench.view.extension.rustSyntaxTreeContainer\",\"th\
+  emeIcon\":{\"id\":\"list-tree\"},\"name\":\"Rust Syntax
+  Tree\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.rust-analyzer.showSy\
+  ntaxTree &&
+  inRustProject\"}]},{\"id\":\"workbench.view.extension.cspell-info-explorer\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware\
+  .code-spell-checker-4.2.6/resources/dark/check_circle.svg\",\"scheme\":\"file\
+  \"},\"name\":\"Spell Checker
+  Info\",\"isBuiltin\":false,\"views\":[{\"when\":\"cSpell.context.displayCSpel\
+  lInfo\"}]},{\"id\":\"workbench.view.extension.cspell-regexp-explorer\",\"icon\
+  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-\
+  spell-checker-4.2.6/resources/dark/check_circle.svg\",\"scheme\":\"file\"},\"\
+  name\":\"Regular
+  Expressions\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experi\
+  mental.enableRegexpView\"}]},{\"id\":\"workbench.view.extension.taskActivity\
+  \",\"name\":\"Task
+  Explorer\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.copilot-ch\
+  at\",\"isBuiltin\":false},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\
+  \":\"settings-sync-view-icon\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
+  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
+  yncActivityViews\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\"\
+  :{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\
+  \":[{\"when\":\"testing.providerCount >
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
+  ension.kubernetesView\",\"name\":\"Kubernetes\",\"isBuiltin\":false},{\"id\":\
+  \"workbench.view.extension.package-explorer\",\"isBuiltin\":false},{\"id\":\"\
+  workbench.view.extension.liveshare\",\"name\":\"Live
+  Share\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.bookmarks\",\
+  \"name\":\"Bookmarks\",\"isBuiltin\":false},{\"id\":\"workbench.view.extensio\
+  n.mongoDB\",\"name\":\"MongoDB\",\"isBuiltin\":false},{\"id\":\"workbench.vie\
+  w.extension.chatgpt-vscode-view-container\",\"isBuiltin\":false},{\"id\":\"wo\
+  rkbench.view.extension.references-view\",\"themeIcon\":{\"id\":\"references\"\
+  },\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\"when\":\"referenc\
+  e-list.isActive\"},{\"when\":\"cpptools.hasReferencesResults\"}]},{\"id\":\"w\
+  orkbench.view.extension.jupyter\",\"name\":\"Jupyter\",\"isBuiltin\":false},{\
+  \"id\":\"workbench.view.extension.sftp\",\"name\":\"SFTP\",\"isBuiltin\":fals\
+  e},{\"id\":\"workbench.view.extension.workspaceViewer\",\"name\":\"R\",\"isBu\
+  iltin\":false},{\"id\":\"workbench.view.extension.gitlens\",\"isBuiltin\":fal\
+  se},{\"id\":\"workbench.view.extension.gitlensInspect\",\"isBuiltin\":false},{\
+  \"id\":\"workbench.view.extension.gitlensPatch\",\"isBuiltin\":false},{\"id\":\
+  \"workbench.view.extension.tabnine\",\"isBuiltin\":false},{\"id\":\"workbench\
+  .view.extension.codeium\",\"isBuiltin\":false},{\"id\":\"workbench.panel.chat\
+  Sidebar\",\"isBuiltin\":false},{\"id\":\"userDataProfiles\",\"isBuiltin\":fal\
+  se},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\"id\":\"edit-sess\
+  ions-view-icon\"},\"name\":\"Cloud
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ,{\"id\":\"workbench.views.service.sidebar.faf4aedb-9c8b-4747-b796-236399094b\
+  24\",\"themeIcon\":{\"id\":\"timeline-view-icon\"},\"name\":\"Timeline\",\"is\
+  Builtin\":true,\"views\":[{\"when\":\"timelineHasProvider\"}]},{\"id\":\"work\
+  bench.views.service.sidebar.8d4292cd-ec82-4283-8a27-b5fe33f7f1b3\",\"themeIcon\
+  \":{\"id\":\"default-view-icon\"},\"name\":\"User View
+  Container\",\"isBuiltin\":true,\"views\":[{\"when\":\"npm:showScriptExplorer\
+  \"}]},{\"id\":\"workbench.view.extension.cspell-explorer\",\"isBuiltin\":fals\
+  e}]"
+workbench.activityBar.hidden: "false"
+workbench.activityBar.location: bottom
+workbench.auxiliaryBar.lastNonMaximizedSize: "300"
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chatEditing","name":"Copilot
+  Edits","isBuiltin":false},{"id":"workbench.panel.chat","themeIcon":{"id":"comment-discussion"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
+  || chatPanelParticipantRegistered || chatSetupInstalled && !chatSetupDisabled
+  || !chatSetupDisabled && !chatSetupHidden"}]}]'
+workbench.auxiliaryBar.size: "400"
+workbench.chat.hideMovedChatWelcomeView: "true"
+workbench.chat.hideWelcomeView: "true"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["cpp",true],["shellscript",true],["git-commit",true],["json",true],["jsonc",true],["javascript",true],["properties",true],["typescript",true],["plaintext",true],["diff",true],["yaml",true],["markdown",true]]'
+workbench.explorer.downloadPath: c:\Users\rjj\Downloads
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"cmake.projectStatus","isHidden":false},{"id":"cmake.outline","isHidden":false},{"id":"cmake.pinnedCommands","isHidden":false},{"id":"effectiveMetadata","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"taskExplorer","isHidden":false},{"id":"codetour.tours","isHidden":false},{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false},{"id":"extension.vsKubernetesExplorer","isHidden":false},{"id":"extension.vsKubernetesHelmRepoExplorer","isHidden":false},{"id":"kubernetes.cloudExplorer","isHidden":false},{"id":"pw.extension.locatorsView","isHidden":false}]'
+workbench.grid.size: '{"height":672,"width":1024}'
+workbench.panel.alignment: center
+workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
+workbench.panel.chatEditing.hidden: '[{"id":"workbench.panel.chat.view.edits","isHidden":false}]'
+workbench.panel.chatSidebar.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
+workbench.panel.lastNonMaximizedHeight: "234"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"workbench.views.service.panel.d094e1f0-affc-45c7-a2f2-b445d598820b","pinned":true,"visible":false},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.githd-panel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":7},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.view.extension.playwrightContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.views.service.panel.276f9722-62d0-4db9-ad7d-e970565af551","pinned":true,"visible":false},{"id":"workbench.view.extension.sqltoolsPanelContainer","pinned":true,"visible":false,"order":9},{"id":"workbench.views.service.panel.895d32f8-2037-4152-807a-fa85280c944f","pinned":true,"visible":false},{"id":"workbench.views.service.panel.846f6547-51a2-4d77-ab28-85a5e0ebda68","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"workbench.views.service.panel.d094e1f0-affc-45c7-a2f2-b445d598820b","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[]},{"id":"terminal","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","isBuiltin":false},{"id":"workbench.view.extension.githd-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/huizhou.githd-2.5.6/media/icons/githd.svg","scheme":"file"},"name":"GitHD","isBuiltin":false,"views":[{"when":"githd.hasGitRepo
+  &&
+  !githd.expressMode"}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.2.6/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
+  Checker","isBuiltin":false,"views":[{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]},{"id":"workbench.view.extension.playwrightContainer","name":"Playwright","isBuiltin":false},{"id":"workbench.views.service.panel.276f9722-62d0-4db9-ad7d-e970565af551","name":"User
+  View
+  Container","isBuiltin":false},{"id":"workbench.view.extension.sqltoolsPanelContainer","name":"SQL
+  Console","isBuiltin":false},{"id":"workbench.views.service.panel.895d32f8-2037-4152-807a-fa85280c944f","themeIcon":{"id":"lightbulb"},"name":"Spell
+  Checker issues by
+  file","isBuiltin":true,"views":[{}]},{"id":"workbench.views.service.panel.846f6547-51a2-4d77-ab28-85a5e0ebda68","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "234"
+workbench.processExplorerWindowState: '{"bounds":{"x":208,"y":69,"width":802,"height":502}}'
+workbench.quickInput.viewState: '{"top":0.009345794392523364,"left":0.5257920273789415}'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm","isHidden":false},{"id":"gitlens.views.repositories:scm","isHidden":false},{"id":"gitlens.views.fileHistory:scm","isHidden":false},{"id":"gitlens.views.lineHistory:scm","isHidden":false},{"id":"gitlens.views.compare:scm","isHidden":false},{"id":"gitlens.views.search:scm","isHidden":false},{"id":"pr:scm","isHidden":false},{"id":"prStatus:scm","isHidden":false},{"id":"workbench.scm.repositories","isHidden":true},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":true},{"id":"gitlens.views.branches","isHidden":true},{"id":"gitlens.views.remotes","isHidden":true},{"id":"gitlens.views.stashes","isHidden":true},{"id":"gitlens.views.tags","isHidden":true},{"id":"gitlens.views.contributors","isHidden":true},{"id":"gitlens.views.searchAndCompare","isHidden":true},{"id":"gitlens.views.worktrees","isHidden":true},{"id":"gitlens.views.commitDetails","isHidden":true},{"id":"workbench.scm.sync","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
+workbench.sideBar.position: "0"
+workbench.sideBar.size: "261"
+workbench.statusBar.hidden: "false"
+workbench.statusbar.hidden: '["status.feedback","ms-vsliveshare.vsliveshare","vscode.json-language-features.status.json.resolveError","ms-python.vscode-pylance/python.analysis.typeCheckingMode","streetsidesoftware.code-spell-checker.spell
+  checker status
+  id","ms-kubernetes-tools.vscode-kubernetes-tools","eamodio.gitlens.gitlens.graph","humao.rest-client.environment","hediet.vscode-drawio","ms-vsliveshare.vsliveshare.liveshare.userStatusBarItem","fill-labs.dependi","cweijan.vscode-office.environment","GitHub.copilot.status","chat.statusBarEntry","vscode.debug-auto-launch.status.debug.autoAttach","ms-dotnettools.csdevkit.csdevkit.status","mtxr.sqltools","aiStatsStatusBar"]'
+workbench.telemetryOptOutShown: "true"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":true},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":true},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":true},{"id":"jsExcludedCallers","isHidden":false},{"id":"CppSshTargetsView","isHidden":false},{"id":"loadedModules","isHidden":false},{"id":"lldb.loadedModules","isHidden":false},{"id":"lldb.excludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false},{"id":"workbench.scm.repositories","isHidden":false,"order":0},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"outline","isHidden":false},{"id":"effectiveMetadata","isHidden":false},{"id":"commitViewProvider","isHidden":true},{"id":"compareCommitViewProvider","isHidden":false},{"id":"xmlTreeView","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"liveshare.session.explorer","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"codetour.tours","isHidden":false},{"id":"lldb-dap.modules","isHidden":false}]'
+workbench.view.extension.42crunch-platform.state.hidden: '[{"id":"platformExplorer","isHidden":false},{"id":"platformWelcome","isHidden":false}]'
+workbench.view.extension.bookmarks.state.hidden: '[{"id":"bookmarksExplorer","isHidden":false},{"id":"bookmarksHelpAndFeedback","isHidden":false}]'
+workbench.view.extension.chatgpt-china-view-container.state.hidden: '[{"id":"chatgpt-china.view","isHidden":false}]'
+workbench.view.extension.chatgpt-vscode-plugin.state.hidden: '[{"id":"chatgpt-vscode-plugin.view","isHidden":false}]'
+workbench.view.extension.chatgpt-vscode-view-container.state.hidden: '[{"id":"chatgpt-vscode.view","isHidden":false}]'
+workbench.view.extension.cl_eide_view.state.hidden: '[{"id":"cl.eide.view.projects","isHidden":false},{"id":"cl.eide.view.operations","isHidden":false}]'
+workbench.view.extension.cmake-view.state.hidden: '[{"id":"cmake.projectStatus","isHidden":true,"order":1},{"id":"cmake.outline","isHidden":false,"order":0},{"id":"cmake.pinnedCommands","isHidden":true,"order":2}]'
+workbench.view.extension.cmake__viewContainer.state.hidden: '[{"id":"cmake.outline","isHidden":false}]'
+workbench.view.extension.codeium.state.hidden: '[{"id":"codeium.chatPanelView","isHidden":false}]'
+workbench.view.extension.containersView.state.hidden: '[{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":true},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":true},{"id":"vscode-containers.views.help","isHidden":true}]'
+workbench.view.extension.cspell-info-explorer.state.hidden: '[{"id":"cSpellInfoView","isHidden":false},{"id":"cSpellRegExpView","isHidden":false}]'
+workbench.view.extension.cspellPanel.state.hidden: '[{"id":"cSpellIssuesViewByFile","isHidden":false},{"id":"cSpellIssuesViewByIssue","isHidden":false}]'
+workbench.view.extension.data-wrangler-primary.state.hidden:
+  '[{"id":"jupyter-data-wrangler-operations-view","isHidden":false},{"id":"jupyter-data-wrangler-summary-view","isHidden":false},{"id":"jupyter-data-wrangler-cleaning-steps-view","isHidden":false},{"id":"data-viewer-filters-view","isHidden":false},{"id":"data-viewer-sorts-view","isHidden":false}]'
+workbench.view.extension.data-wrangler-secondary.state.hidden: '[{"id":"jupyter-data-wrangler-code-preview-view","isHidden":false}]'
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":true},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":true},{"id":"vscode-docker.views.help","isHidden":true}]'
+workbench.view.extension.githd-explorer.state.hidden: '[{"id":"githd.files","isHidden":false}]'
+workbench.view.extension.githd-panel.state.hidden: '[{"id":"githd.stats","isHidden":false}]'
+workbench.view.extension.github-actions.state.hidden: '[{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false}]'
+workbench.view.extension.github-pull-request.state.hidden: '[{"id":"github:createPullRequest","isHidden":false},{"id":"github:compareChanges","isHidden":false},{"id":"prStatus:github","isHidden":false},{"id":"github:activePullRequest","isHidden":false},{"id":"github:activePullRequest:welcome","isHidden":false},{"id":"github:createPullRequestWebview","isHidden":false},{"id":"github:compareChangesFiles","isHidden":false},{"id":"github:compareChangesCommits","isHidden":false}]'
+workbench.view.extension.github-pull-requests.state.hidden: '[{"id":"github:login","isHidden":false},{"id":"pr:github","isHidden":false},{"id":"issues:github","isHidden":false},{"id":"github:conflictResolution","isHidden":false},{"id":"notifications:github","isHidden":false}]'
+workbench.view.extension.gitlab-workflow.state.hidden: '[{"id":"issuesAndMrs","isHidden":false},{"id":"currentBranchInfo","isHidden":false},{"id":"remoteSecurityScanning","isHidden":false}]'
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":true},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":true},{"id":"gitlens.views.account","isHidden":true},{"id":"gitlens.views.drafts","isHidden":true},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.welcome","isHidden":false}]'
+workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.timeline","isHidden":true},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false}]'
+workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph","isHidden":true},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false}]'
+workbench.view.extension.gradleContainerView.state.hidden: '[{"id":"gradleTasksView","isHidden":false},{"id":"gradleDefaultProjectsView","isHidden":false},{"id":"pinnedTasksView","isHidden":false},{"id":"recentTasksView","isHidden":false},{"id":"gradleDaemonsView","isHidden":false}]'
+workbench.view.extension.Guardian.state.hidden: '[{"id":"guardian-create","isHidden":false},{"id":"guardian-link","isHidden":false}]'
+workbench.view.extension.jupyter-variables.state.hidden: '[{"id":"jupyterViewVariables","isHidden":false},{"id":"cell-tag","isHidden":false}]'
+workbench.view.extension.jupyter.state.hidden: '[{"id":"cell-tag","isHidden":false}]'
+workbench.view.extension.kubernetesView.state.hidden: '[{"id":"extension.vsKubernetesExplorer","isHidden":false},{"id":"extension.vsKubernetesHelmRepoExplorer","isHidden":false},{"id":"kubernetes.cloudExplorer","isHidden":false}]'
+workbench.view.extension.latex-workshop-activitybar.state.hidden:
+  '[{"id":"latex-workshop-commands","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"latex-workshop-snippet-view","isHidden":false}]'
+workbench.view.extension.leetcode.state.hidden: '[{"id":"leetCodeExplorer","isHidden":false}]'
+workbench.view.extension.liveshare.state.hidden: '[{"id":"liveshare.session","isHidden":false},{"id":"liveshare.help","isHidden":false},{"id":"liveshare.devtools","isHidden":false}]'
+workbench.view.extension.makefile__viewContainer.state.hidden: '[{"id":"makefile.outline","isHidden":false}]'
+workbench.view.extension.mbehr1Logs.state.hidden: '[{"id":"websharkEventsExplorer","isHidden":false}]'
+workbench.view.extension.mongoDB.state.hidden: '[{"id":"mongoDBConnectionExplorer","isHidden":false},{"id":"mongoDBPlaygroundsExplorer","isHidden":false},{"id":"mongoDBHelpExplorer","isHidden":false}]'
+workbench.view.extension.openapi-explorer.state.hidden: '[{"id":"openapiTwoSpecOutline","isHidden":false},{"id":"openapiTwoPathOutline","isHidden":false},{"id":"openapiTwoOperationIdOutline","isHidden":false},{"id":"openapiTwoParametersOutline","isHidden":false},{"id":"openapiTwoResponsesOutline","isHidden":false},{"id":"openapiTwoDefinitionOutline","isHidden":false},{"id":"openapiTwoSecurityOutline","isHidden":false},{"id":"openapiTwoSecurityDefinitionOutline","isHidden":false},{"id":"openapiThreeSpecOutline","isHidden":false},{"id":"openapiThreePathOutline","isHidden":false},{"id":"openapiThreeOperationIdOutline","isHidden":false},{"id":"openapiThreeServersOutline","isHidden":false},{"id":"openapiThreeComponentsOutline","isHidden":false},{"id":"openapiThreeSecurityOutline","isHidden":false},{"id":"openapiNotSelectedOutline","isHidden":false}]'
+workbench.view.extension.package-explorer.state.hidden: '[{"id":"pythonEnvironments","isHidden":false},{"id":"workspaceEnvironments","isHidden":false}]'
+workbench.view.extension.pgObjectExplorer.state.hidden: '[{"id":"pg-objectExplorer","isHidden":false},{"id":"pg-queryHistory","isHidden":false}]'
+workbench.view.extension.pgQueryResult.state.hidden: '[{"id":"pgQueryResult","isHidden":false}]'
+workbench.view.extension.playwrightContainer.state.hidden: '[{"id":"pw.extension.locatorsView","isHidden":false}]'
+workbench.view.extension.postman-console-view-container.state.hidden: '[{"id":"postman-console-view","isHidden":false}]'
+workbench.view.extension.qbs-sidebar.state.hidden: '[{"id":"qbs-project","isHidden":false}]'
+workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false},{"id":"CppReferencesView","isHidden":false}]'
+workbench.view.extension.rustSyntaxTreeContainer.state.hidden: '[{"id":"rustSyntaxTree","isHidden":false}]'
+workbench.view.extension.sidebar-panel.state.hidden: '[{"id":"postman-for-vscode.sidebar-panel","isHidden":false}]'
+workbench.view.extension.sqltoolsActivityBarContainer.state.hidden:
+  '[{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false}]'
+workbench.view.extension.sqltoolsPanelContainer.state.hidden: '[{"id":"sqltoolsViewConsoleMessages","isHidden":false}]'
+workbench.view.extension.tabnine-access.state.hidden: '[{"id":"tabnine-home","isHidden":false}]'
+workbench.view.extension.taskActivity.state.hidden: '[{"id":"taskExplorerSideBar","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"go.test.profile","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false},{"id":"pw.extension.settingsView","isHidden":false},{"id":"test-explorer","isHidden":false}]'
+workbench.view.extension.todo-tree-container.state.hidden: '[{"id":"todo-tree-view","isHidden":false}]'
+workbench.view.extension.vscode-chatgpt-view-container.state.hidden: '[{"id":"vscode-chatgpt.view","isHidden":false}]'
+workbench.view.extension.vscode-serial-monitor-tools.state.hidden:
+  '[{"id":"vscode-serial-monitor.monitor0","isHidden":false},{"id":"vscode-serial-monitor.monitor1","isHidden":false},{"id":"vscode-serial-monitor.monitor2","isHidden":false}]'
+workbench.view.extension.workspaceViewer.state.hidden: '[{"id":"workspaceViewer","isHidden":false},{"id":"rHelpPages","isHidden":false},{"id":"rLiveShare","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.local.installed","isHidden":false},{"id":"workbench.views.extensions.remote.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.web.installed","isHidden":false},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":true},{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"remoteTargets","isHidden":false},{"id":"remoteHub.views.workspaceRepositories","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false},{"id":"~remote.helpPanel","isHidden":true},{"id":"github.codespaces.explorer","isHidden":false},{"id":"github.codespaces.warnExplorer","isHidden":false},{"id":"github.codespaces.performanceExplorer","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false,"order":0},{"id":"chatgpt-vscode.view","isHidden":false},{"id":"workbench.scm.repositories","isHidden":false,"order":1},{"id":"workbench.scm","isHidden":false,"order":3},{"id":"workbench.scm.history","isHidden":false}]'
+workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":false},{"id":"workbench.views.sync.troubleshoot","isHidden":false},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
+workbench.views.extensions.installed.size: "46"
+workbench.views.extensions.local.installed.size: "46"
+workbench.views.extensions.remote.installed.size: "42"
+workbench.views.service.auxiliarybar.148df493-620f-4996-9cf5-4d7ff19a829a.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false}]'
+workbench.views.service.auxiliarybar.dec427e1-7b26-40c9-9f74-4701442f5703.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false}]'
+workbench.views.service.panel.268c80ea-48ba-473d-b8e8-386cdd15af59.state.hidden: '[{"id":"cSpellIssuesViewByFile","isHidden":false}]'
+workbench.views.service.panel.276f9722-62d0-4db9-ad7d-e970565af551.state.hidden: '[{"id":"sqltoolsViewConsoleMessages","isHidden":false}]'
+workbench.views.service.panel.846f6547-51a2-4d77-ab28-85a5e0ebda68.state.hidden:
+  '[{"id":"terminal","isHidden":false},{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.views.service.panel.895d32f8-2037-4152-807a-fa85280c944f.state.hidden:
+  '[{"id":"terminal","isHidden":false},{"id":"cSpellIssuesViewByFile","isHidden":false}]'
+workbench.views.service.panel.94d0d7e8-52f6-4eaf-aa5f-a7cff5f1562a.state.hidden: '[{"id":"terminal","isHidden":false}]'
+workbench.views.service.panel.d094e1f0-affc-45c7-a2f2-b445d598820b.state.hidden: '[{"id":"terminal","isHidden":false}]'
+workbench.views.service.sidebar.8d4292cd-ec82-4283-8a27-b5fe33f7f1b3.state.hidden: '[{"id":"npm","isHidden":false}]'
+workbench.views.service.sidebar.b4f645cf-fc44-4170-af7d-c1d1b852349f.state.hidden:
+  '[{"id":"workbench.scm","isHidden":false,"order":0},{"id":"workbench.scm.repositories","isHidden":false,"order":1},{"id":"workbench.scm.history","isHidden":false}]'
+workbench.views.service.sidebar.faf4aedb-9c8b-4747-b796-236399094b24.state.hidden: '[{"id":"timeline","isHidden":false}]'
+workbench.welcomePage.hiddenCategories: '["Setup","Beginner","Intermediate","ms-python.python#pythonWelcome","ms-azuretools.vscode-docker#dockerStart","ms-vscode-remote.remote-wsl#wslWelcome","ms-toolsai.jupyter#jupyterWelcome","SetupWeb","eamodio.gitlens#gitlens.plus","eamodio.gitlens#gitlens.welcome","ms-vscode.remote-repositories#remoteRepositoriesWalkthrough","github.copilot","ms-vscode.cpptools#cppWelcome","ms-vscode-remote.remote-wsl#wslWalkthrough","valentjn.vscode-ltex#ltex.walkthrough","alefragnani.Bookmarks#bookmarksWelcome","rust-lang.rust-analyzer#landing","eamodio.gitlens#welcome","GitLab.gitlab-workflow#placeholder","ms-toolsai.datawrangler#dataWranglerWelcome","ms-azuretools.vscode-containers#containersStart","ms-dotnettools.csdevkit#csdevkit.gettingStarted"]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-vscode.remote-repositories#remoteRepositoriesWalkthrough",{"firstSeen":1706029458374,"stepIDs":["editCommitRepo","createGitHubPullRequest","continueOn","openRepo","remoteIndicator"],"manaullyOpened":false}],["eamodio.gitlens#gitlens.welcome",{"firstSeen":1706029636693,"stepIDs":["gitlens.welcome.tutorial","gitlens.welcome.sidebars","gitlens.welcome.currentLineBlame","gitlens.welcome.fileAnnotations","gitlens.welcome.revisionHistory","gitlens.welcome.commitGraph","gitlens.welcome.workspaces","gitlens.welcome.hostingServiceIntegrations","gitlens.welcome.labs","gitlens.welcome.preview","gitlens.welcome.trial","gitlens.welcome.services","gitlens.welcome.additional"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1706029636693,"stepIDs":["python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.selectInterpreter","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonWelcome2",{"firstSeen":1706029636693,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment2","python.runAndDebug","python.learnMoreWithDS2"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1706029636693,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1706029636693,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["ms-toolsai.jupyter#jupyterWelcome",{"firstSeen":1706029636693,"stepIDs":["ipynb.newUntitledIpynb","jupyter.selectKernel","jupyter.exploreAndDebug","jupyter.dataScienceLearnMore"],"manaullyOpened":false}],["alefragnani.Bookmarks#bookmarksWelcome",{"firstSeen":1706162942534,"stepIDs":["toggle","navigateToBookmarks","defineLabelsForYourBookmarks","exclusiveSideBar","workingWithRemotes","customizingAppearance"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1706162942534,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-vscode.cpptools#cppWelcome",{"firstSeen":1706162942534,"stepIDs":["awaiting.activation.mac","awaiting.activation.linux","awaiting.activation.windows","awaiting.activation.windows10","awaiting.activation.windows11","no.compilers.found.mac","no.compilers.found.linux","no.compilers.found.windows","no.compilers.found.windows10","no.compilers.found.windows11","verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","verify.compiler.windows10","verify.compiler.windows11","create.cpp.file","relaunch.developer.command.prompt.windows","run.project.mac","run.project.linux","run.project.windows","customize.debugging.linux","customize.debugging.windows","customize.debugging.mac"],"manaullyOpened":false}],["valentjn.vscode-ltex#ltex.walkthrough",{"firstSeen":1712798640744,"stepIDs":["ltex.walkthrough.checkMarkdownDocuments","ltex.walkthrough.checkLatexDocuments","ltex.walkthrough.applyQuickFixes","ltex.walkthrough.customizeSettings","ltex.walkthrough.readDocumentation","ltex.walkthrough.getInvolved"],"manaullyOpened":false}],["eamodio.gitlens#welcome",{"firstSeen":1720057152507,"stepIDs":["get-started","core-features","pro-features","pro-trial","pro-upgrade","pro-reactivate","pro-paid","visualize","launchpad","code-collab","integrations","more"],"manaullyOpened":false}],["ms-toolsai.datawrangler#dataWranglerWelcome",{"firstSeen":1737009873966,"stepIDs":["openDataWrangler","openDataWrangler-web-variant","cleanDataUsingOperations","applyYourChanges","exportYourCode","openTitanicCSV"],"manaullyOpened":false}],["rust-lang.rust-analyzer#landing",{"firstSeen":1737098005547,"stepIDs":["setup","docs","faq","changelog"],"manaullyOpened":false}],["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1745401207716,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["ms-dotnettools.csdevkit#csdevkit.gettingStarted",{"firstSeen":1747978681928,"stepIDs":["ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.signInStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.setupEnvironmentStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.openWorkspaceStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.createNewProjectStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.launchDebugAndTestStep","ms-dotnettools.csdevkit#csdevkit.gettingStarted#csdevkit.learnMoreStep"],"manaullyOpened":true}],["ms-azuretools.vscode-containers#containersStart",{"firstSeen":1748464614143,"stepIDs":["ms-azuretools.vscode-containers#containersStart#chooseContainerRuntime","ms-azuretools.vscode-containers#containersStart#openFolder","ms-azuretools.vscode-containers#containersStart#openFolderMac","ms-azuretools.vscode-containers#containersStart#scaffold","ms-azuretools.vscode-containers#containersStart#buildImage","ms-azuretools.vscode-containers#containersStart#runContainer","ms-azuretools.vscode-containers#containersStart#containerExplorer","ms-azuretools.vscode-containers#containersStart#pushImage","ms-azuretools.vscode-containers#containersStart#azDeploy","ms-azuretools.vscode-containers#containersStart#learn"],"manaullyOpened":true}]]'
+zokugun.cron-tasks: '{"version":"0.2.1"}'

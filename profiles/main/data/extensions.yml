@@ -1,29 +1,49 @@
-disabled: []
-enabled:
+builtin:
+  disabled:
+    - vscode.configuration-editing
+    - vscode.css-language-features
+    - vscode.debug-auto-launch
+    - vscode.debug-server-ready
+    - vscode.emmet
+    - vscode.extension-editing
+    - vscode.git
+    - vscode.git-base
+    - vscode.github
+    - vscode.grunt
+    - vscode.gulp
+    - vscode.html-language-features
+    - vscode.ipynb
+    - vscode.jake
+    - vscode.json-language-features
+    - vscode.markdown-language-features
+    - vscode.markdown-math
+    - vscode.merge-conflict
+    - ms-vscode.js-debug
+    - ms-vscode.vscode-js-profile-table
+    - vscode.npm
+    - vscode.php-language-features
+    - vscode.references-view
+    - vscode.search-result
+    - vscode.terminal-suggest
+    - vscode.tunnel-forwarding
+    - vscode.typescript-language-features
+disabled:
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
-  - id: bierner.emojisense
-    uuid: 081cd2e9-bc51-4ea3-977e-544bed2e33a8
+  - id: GitHub.vscode-pull-request-github
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: detachhead.basedpyright
     uuid: 249aa903-c0c5-4eb3-9deb-06895c663b8b
-  - id: GitHub.vscode-pull-request-github
-    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
-  - id: hediet.vscode-drawio
-    uuid: ea6a6046-2132-421f-a984-664909fcf0b8
   - id: James-Yu.latex-workshop
-    uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
-  - id: jeanp413.open-remote-ssh
-    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
-  - id: jeanp413.open-remote-wsl
-    uuid: 85cc8d73-323e-4b6c-8b8b-cdf0f6800249
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: kiui.mesh-viewer
-    uuid: e960392a-29c1-4858-94c9-aca5bb9f94d9
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: lang2hong.githd
     uuid: 40241c5f-6cb0-48a8-bfa6-815c86d1519d
-  - id: llvm-vs-code-extensions.vscode-clangd
-    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
+  - id: llvm-vs-code-extensions.vscode-clangd
+    uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
   - id: ms-azuretools.vscode-containers
     uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
@@ -36,24 +56,20 @@ enabled:
     uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-toolsai.jupyter-keymap
-    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
-  - id: ms-vscode.cpptools-themes
-    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.Go
-    uuid: 00a0bae3-b66c-45ec-8ec2-d60113ed2b16
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: ms-vscode.hexeditor
     uuid: cc7d2112-5178-4472-8e0e-25dced95e7f0
   - id: ms-vscode.makefile-tools
     uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
   - id: ms-vscode.references-view
     uuid: dc489f46-520d-4556-ae85-1f9eab3c412d
-  - id: ms-vscode.vscode-github-issue-notebooks
-    uuid: 3be1cece-c179-4cd6-b59b-3bae29e1a166
   - id: ms-vscode.vscode-js-profile-flame
     uuid: 76169c6c-5d43-4560-93d8-95e15125880d
+  - id: ms-vscode.vscode-github-issue-notebooks
+    uuid: 3be1cece-c179-4cd6-b59b-3bae29e1a166
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: ms-vscode.wasm-wasi-core
@@ -61,20 +77,33 @@ enabled:
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: ritwickdey.LiveServer
-    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sankooc.pcapviewer
     uuid: 92112ef2-ec92-4d5f-87af-13fce8a1491b
-  - id: streetsidesoftware.code-spell-checker
-    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: streetsidesoftware.code-spell-checker-british-english
     uuid: 0269cd55-b1cb-4b38-a522-40b6dee37ab5
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: streetsidesoftware.code-spell-checker-medical-terms
     uuid: cbb05103-9ec4-4452-ac7d-a986ca83e978
   - id: streetsidesoftware.code-spell-checker-scientific-terms
     uuid: cda49799-8835-4b0b-8d18-6bdb3b695699
   - id: Vue.volar
-    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: bierner.emojisense
+    uuid: 081cd2e9-bc51-4ea3-977e-544bed2e33a8
+  - id: hediet.vscode-drawio
+    uuid: ea6a6046-2132-421f-a984-664909fcf0b8
+  - id: jeanp413.open-remote-ssh
+    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
+  - id: jeanp413.open-remote-wsl
+    uuid: 85cc8d73-323e-4b6c-8b8b-cdf0f6800249
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

@@ -102,5 +102,8 @@
     "chat.checkpoints.enabled": false,
     "chat.emptyChatState.enabled": false,
     "chat.implicitContext.suggestedContext": false,
-    "workbench.activityBar.location": "bottom"
+    "workbench.activityBar.location": "bottom",
+    "meshviewer.showGrid": true,
+    "meshviewer.showAxis": true,
+    "meshviewer.showWireframe": false
 }

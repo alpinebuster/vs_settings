@@ -291,7 +291,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chatEditing",
 workbench.auxiliaryBar.size: "294"
 workbench.chat.hideMovedChatWelcomeView: "true"
 workbench.chat.hideWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["git-commit",true],["jsonc",true],["diff",true],["javascript",true],["properties",true],["githd",true],["typescript",true],["plaintext",true],["markdown",true],["dockercompose",true],["yaml",true],["json",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["git-commit",true],["jsonc",true],["diff",true],["javascript",true],["properties",true],["githd",true],["typescript",true],["plaintext",true],["markdown",true],["json",true],["yaml",true],["dockercompose",true]]'
 workbench.explorer.downloadPath: c:\Users\rjj\Downloads
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"cmake.projectStatus","isHidden":false},{"id":"cmake.outline","isHidden":false},{"id":"cmake.pinnedCommands","isHidden":false},{"id":"effectiveMetadata","isHidden":false},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"taskExplorer","isHidden":false},{"id":"codetour.tours","isHidden":false},{"id":"github-actions.current-branch","isHidden":false},{"id":"github-actions.workflows","isHidden":false},{"id":"github-actions.settings","isHidden":false},{"id":"github-actions.empty-view","isHidden":false},{"id":"extension.vsKubernetesExplorer","isHidden":false},{"id":"extension.vsKubernetesHelmRepoExplorer","isHidden":false},{"id":"kubernetes.cloudExplorer","isHidden":false},{"id":"pw.extension.locatorsView","isHidden":false},{"id":"rustDependencies","isHidden":false}]'
 workbench.grid.size: '{"height":672,"width":1024}'
@@ -389,7 +389,7 @@ workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":f
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":false},{"id":"workbench.views.sync.troubleshoot","isHidden":false},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
 workbench.views.extensions.installed.size: "40"
 workbench.views.extensions.local.installed.size: "40"
-workbench.views.extensions.remote.installed.size: "39"
+workbench.views.extensions.remote.installed.size: "41"
 workbench.views.service.auxiliarybar.148df493-620f-4996-9cf5-4d7ff19a829a.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false}]'
 workbench.views.service.auxiliarybar.dec427e1-7b26-40c9-9f74-4701442f5703.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false}]'
 workbench.views.service.panel.268c80ea-48ba-473d-b8e8-386cdd15af59.state.hidden: '[{"id":"cSpellIssuesViewByFile","isHidden":false}]'

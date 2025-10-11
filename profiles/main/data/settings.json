@@ -60,7 +60,6 @@
     "telemetry.feedback.enabled": false,
     "chat.detectParticipant.enabled": false,
     "chat.extensionTools.enabled": false,
-    "chat.mcp.enabled": false,
     "inlineChat.holdToSpeech": false,
     "notebook.experimental.generate": false,
     "accessibility.verbosity.inlineChat": false,
@@ -105,5 +104,9 @@
     "workbench.activityBar.location": "bottom",
     "meshviewer.showGrid": true,
     "meshviewer.showAxis": true,
-    "meshviewer.showWireframe": false
+    "meshviewer.showWireframe": false,
+    "chat.mcp.access": "none",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "chat.disableAIFeatures": true
 }

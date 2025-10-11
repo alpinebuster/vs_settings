@@ -9,11 +9,11 @@ builtin:
     - vscode.git
     - vscode.github
     - vscode.git-base
-    - vscode.grunt
     - vscode.gulp
+    - vscode.grunt
     - vscode.html-language-features
-    - vscode.jake
     - vscode.ipynb
+    - vscode.jake
     - vscode.json-language-features
     - vscode.markdown-language-features
     - vscode.markdown-math
@@ -39,28 +39,28 @@ disabled:
     uuid: 00000000-0000-0000-0000-000000000000
   - id: kiui.mesh-viewer
     uuid: e960392a-29c1-4858-94c9-aca5bb9f94d9
-  - id: lang2hong.githd
-    uuid: 40241c5f-6cb0-48a8-bfa6-815c86d1519d
   - id: llvm-vs-code-extensions.vscode-clangd
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-azuretools.vscode-containers
     uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: lang2hong.githd
+    uuid: 40241c5f-6cb0-48a8-bfa6-815c86d1519d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-python.black-formatter
     uuid: 859e640c-c157-47da-8699-9080b81c8371
-  - id: ms-python.debugpy
-    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.isort
     uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-vscode.cmake-tools
-    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.Go
     uuid: 00000000-0000-0000-0000-000000000000
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.hexeditor
     uuid: cc7d2112-5178-4472-8e0e-25dced95e7f0
   - id: ms-vscode.makefile-tools
@@ -79,12 +79,12 @@ disabled:
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: ritwickdey.LiveServer
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: rust-lang.rust-analyzer
-    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sankooc.pcapviewer
     uuid: 92112ef2-ec92-4d5f-87af-13fce8a1491b
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: streetsidesoftware.code-spell-checker-british-english
     uuid: 0269cd55-b1cb-4b38-a522-40b6dee37ab5
   - id: streetsidesoftware.code-spell-checker-medical-terms

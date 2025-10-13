@@ -108,5 +108,9 @@
     "chat.mcp.access": "none",
     "go.formatTool": "goimports",
     "go.useLanguageServer": true,
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-linux": "/home/zzz/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.kubectl-path-linux": "/home/zzz/.local/state/vs-kubernetes/tools/kubectl/kubectl"
+    }
 }

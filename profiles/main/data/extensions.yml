@@ -2,8 +2,8 @@ builtin:
   disabled:
     - vscode.configuration-editing
     - vscode.css-language-features
-    - vscode.debug-auto-launch
     - vscode.debug-server-ready
+    - vscode.debug-auto-launch
     - vscode.emmet
     - vscode.extension-editing
     - vscode.git
@@ -33,24 +33,24 @@ disabled:
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: detachhead.basedpyright
     uuid: 249aa903-c0c5-4eb3-9deb-06895c663b8b
-  - id: James-Yu.latex-workshop
-    uuid: 00000000-0000-0000-0000-000000000000
   - id: GitHub.vscode-pull-request-github
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: James-Yu.latex-workshop
     uuid: 00000000-0000-0000-0000-000000000000
   - id: kiui.mesh-viewer
     uuid: e960392a-29c1-4858-94c9-aca5bb9f94d9
   - id: lang2hong.githd
     uuid: 40241c5f-6cb0-48a8-bfa6-815c86d1519d
-  - id: mechatroner.rainbow-csv
-    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: llvm-vs-code-extensions.vscode-clangd
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
+  - id: mechatroner.rainbow-csv
+    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-azuretools.vscode-containers
     uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
-  - id: ms-python.black-formatter
-    uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-python.black-formatter
+    uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.isort
@@ -67,10 +67,10 @@ disabled:
     uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
   - id: ms-vscode.references-view
     uuid: dc489f46-520d-4556-ae85-1f9eab3c412d
-  - id: ms-vscode.vscode-js-profile-flame
-    uuid: 76169c6c-5d43-4560-93d8-95e15125880d
   - id: ms-vscode.vscode-github-issue-notebooks
     uuid: 3be1cece-c179-4cd6-b59b-3bae29e1a166
+  - id: ms-vscode.vscode-js-profile-flame
+    uuid: 76169c6c-5d43-4560-93d8-95e15125880d
   - id: ms-vscode.vscode-typescript-next
     uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: ms-vscode.wasm-wasi-core

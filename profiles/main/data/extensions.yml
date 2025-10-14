@@ -4,8 +4,8 @@ builtin:
     - vscode.css-language-features
     - vscode.debug-server-ready
     - vscode.debug-auto-launch
-    - vscode.emmet
     - vscode.extension-editing
+    - vscode.emmet
     - vscode.git
     - vscode.git-base
     - vscode.github
@@ -45,10 +45,10 @@ disabled:
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
-  - id: ms-azuretools.vscode-containers
-    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-python.black-formatter
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.debugpy

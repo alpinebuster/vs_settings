@@ -1,0 +1,7 @@
+builtin:
+  disabled:
+    - vscode.php-language-features
+disabled: []
+enabled:
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

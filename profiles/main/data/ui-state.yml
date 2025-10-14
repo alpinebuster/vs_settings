@@ -443,7 +443,7 @@ workbench.view.remote.state.hidden: '[{"id":"remoteTargets","isHidden":false},{"
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false,"order":0},{"id":"chatgpt-vscode.view","isHidden":false},{"id":"workbench.scm.repositories","isHidden":false,"order":1},{"id":"workbench.scm","isHidden":false,"order":3},{"id":"workbench.scm.history","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":false},{"id":"workbench.views.sync.troubleshoot","isHidden":false},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
 workbench.views.extensions.installed.size: "40"
-workbench.views.extensions.local.installed.size: "92"
+workbench.views.extensions.local.installed.size: "11"
 workbench.views.extensions.remote.installed.size: "43"
 workbench.views.service.auxiliarybar.148df493-620f-4996-9cf5-4d7ff19a829a.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false}]'
 workbench.views.service.auxiliarybar.dec427e1-7b26-40c9-9f74-4701442f5703.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false}]'

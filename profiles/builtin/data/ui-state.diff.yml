@@ -1,9 +1,192 @@
 modified:
   GitHub.vscode-pull-request-github: '{"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.githubPullRequests.codingAgent.uiIntegration","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;cloudbuttont:31379625;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.githubPullRequests.codingAgent.uiIntegration":true,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"githubPullRequest.lastUsedScopes":["read:user","user:email","repo","workflow"],"githubPullRequest.lastUsedScopesEnterprise":["read:user","user:email","repo","workflow"],"hasMigratedQueries":true,"hasMigratedDefaultQueries4":true,"prompt
     for sign in:login":false}'
+  jeanp413.open-remote-ssh: '{"remoteLocationHistory_v0":{"zzz-proxy":["/home/datum/workspaces/workspace","/home/datum/workspaces/rapier.js","/home/datum/workspaces/JoltPhysics.js","/home/datum/workspaces/JoltPhysics","/home/datum/workspaces/rapier","/home/datum/workspaces/MeshLib","/home/datum/workspaces/synapse","/home/datum/workspaces/vscodium","/home/datum/workspaces/meshsdk","/home/datum/workspaces/ai-stomatology","/home/datum/workspaces/ab","/home/data/workspaces/meshsdk"],"zzz_66-proxy":["/home/data/workspaces/arkime-docker-compose","/home/data/workspaces/darknetta/services/al-service-characterize","/home/data/workspaces/darknetta/al-helm-chart","/home/data/workspaces/darknetta","/home/data/workspaces/blender"],"zzz_66":["/home/data/workspaces/arkime","/home/data/workspaces/arkime-docker-compose"]}}'
   mechatroner.rainbow-csv: '{"dynamic_dialect:/home/data/workspaces/Arkime-SS/arkime/etc/ipv4-address-space.csv":{"delim":",","policy":"quoted_rfc"}}'
+  mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
   ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1748307215408,"currentMonthSessions":1,"totalSessions":23},"vscode-docker.activity.overall":{"lastSession":1748307215533,"currentMonthSessions":1,"totalSessions":23},"VSCode.ABExp.FeatureData":{"features":["config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_mi","vscode-docker.aatest","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vscode-docker_aaflight:30153983;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;6074i472:31201624;customenabled:31248079;hdaa2157:31222309;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":true,"vscode-docker.aatest":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"vscode-docker.container.newContainerUser":false,"showQuickPick.f3d31d286fb450aaf6a85182628e325970cc05b73125788c6dd841197c7009e6":"10e163444d1365c8f7326577c63533df96a676d854fdf835d68a02e2a5e4fe7d","showQuickPick.011ada62b01081290de9658f15511e3e12a7f76f8b3045e6d4fa86e65b18df8a":"fcbe31afe853bc0b220f5fa98e50fd35e202a6754fad8b3a7fa76eaa3b39b672","vscode-docker.migrateToContainerTools.lastShown":1748307215408}'
   ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+  ms-python.python: "{\"VSCode.ABExp.FeatureData\":{\"features\":[\"chat.defaultL\
+    anguageModel\",\"chat.defaultMode\",\"config.github.copilot.chat.advanced.e\
+    nableReadFileV2\",\"config.github.copilot.chat.advanced.inlineEdits.xtabPro\
+    vider.nLinesAbove\",\"config.github.copilot.chat.advanced.inlineEdits.xtabP\
+    rovider.nLinesBelow\",\"config.python.analysis.supportAllPythonDocumentscf\
+    \",\"config.python.locator\",\"config.workbench.secondarySideBar.defaultVis\
+    ibility\",\"copilotchat.geminiReplaceString\",\"copilotchat.hiddenModelBEdi\
+    tTool\",\"copilotchat.ruffDiagnosticsCookbook\",\"copilot_ci\",\"extensions\
+    .gallery.useResourceApi\",\"livesharecontinuousaa\",\"mindaroBinariesVersion\
+    \",\"pylanceGenerateDocstringcf\",\"pythonSurveyNotification\",\"test-ai-12\
+    cf\",\"workspace.embeddingIndex.automaticReindexingDelay\"],\"assignmentCon\
+    text\":\"vsliv368:30146709;pythonvspyt551:31249599;binariesv615:30325510;na\
+    tiveloc1:31344060;copilot_t_ci:31333650;pythonrdcb7:31342333;usemplatestapi\
+    :31297334;aj953862:31281341;nesew2to5:31336538;agentgemini:31366296;6abeh94\
+    3:31336334;0927b901:31350571;0cj2b977:31352657;gendocstringf:31379556;0574c\
+    672:31362109;pylancealldocsf:31379511;3efgi100_wstrepl:31374188;\",\"configs\
+    \":[{\"Id\":\"vscode\",\"Parameters\":{\"chat.defaultLanguageModel\":\"gith\
+    ub.copilot-chat/gemini-2.5-pro\",\"chat.defaultMode\":\"agent\",\"config.gi\
+    thub.copilot.chat.advanced.enableReadFileV2\":true,\"config.github.copilot.\
+    chat.advanced.inlineEdits.xtabProvider.nLinesAbove\":2,\"config.github.copi\
+    lot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow\":5,\"config.python.\
+    analysis.supportAllPythonDocuments\":false,\"config.python.locator\":\"nati\
+    ve\",\"config.workbench.secondarySideBar.defaultVisibility\":\"visibleInWor\
+    kspace\",\"copilotchat.geminiReplaceString\":true,\"copilotchat.hiddenModel\
+    BEditTool\":\"with_replace_string\",\"copilotchat.ruffDiagnosticsCookbook\"\
+    :true,\"copilot_ci\":true,\"extensions.gallery.useResourceApi\":\"marketpla\
+    ce\",\"livesharecontinuousaa\":true,\"mindaroBinariesVersion\":\"1.0.202106\
+    15.1\",\"pylanceGenerateDocstring\":false,\"pythonSurveyNotification\":true,\
+    \"test-ai-12\":false,\"workspace.embeddingIndex.automaticReindexingDelay\":\
+    100000000}}]},\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/worksp\
+    ace/doctoral/anonymity/_code/imbalanced_traffic_classification\":true,\"aut\
+    oSelectionInterpretersQueriedOnce\":true,\"remoteWorkspaceFolderKeysForWhic\
+    hTheCopyIsDone_Key\":[\"/home/data/workspaces/arkime-docker-compose\",\"/ho\
+    me/data/workspaces/darknetta/services/al-service-characterize\",\"C:\\\\USE\
+    RS\\\\RJJ\\\\DOWNLOADS\\\\DARKNET_TC_SYSTEM\",\"/home/data/workspaces/darkn\
+    etta\",\"/home/data/workspaces/blender\",\"/home/datum/workspaces/synapse\",\
+    \"/home/datum/workspaces/ab\",\"/home/data/workspaces/meshsdk\",\"C:\\\\USE\
+    RS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHSDK\",\"C:\\\\USERS\\\\RJJ\\\\D\
+    OWNLOADS\\\\WORKSPACES\\\\AI-STOMATOLOGY\",\"/home/data/workspaces/workspac\
+    e/doctoral/anonymity/_code/backbone_traffic_detection\",\"/home/data/worksp\
+    aces/meshlib\",\"C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHLIB\",\
+    \"/home/data/workspaces/Malcolm\",\"/home/data/workspaces/darknet_tc_system\
+    \",\"C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\DARKNET_TC_SYSTEM\",\
+    \"/home/zzz/deployments/assemblyline\",\"/home/data/workspaces/assemblyline\
+    -docker-compose\",\"/home/data/workspaces/ab/server/chat/python/synapse\",\
+    \"/home/data/workspaces/ab\",\"/home/data/workspaces/workspace\",\"/home/da\
+    ta/workspaces/workspace/doctoral/anonymity/_code/imbalanced_traffic_classif\
+    ication\"],\"isRemoteGlobalSettingCopiedKey\":true,\"SHELL_INTEGRATION_WORK\
+    ING_KEY_bash\":true,\"pylanceDefaultPromptMemento\":true,\"PYTHON_WAS_DISCO\
+    VERY_TRIGGERED_/home/data/workspaces/workspace\":true,\"PYTHON_WAS_DISCOVER\
+    Y_TRIGGERED_/home/data/workspaces/ab\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERE\
+    D_/home/data/workspaces/ab/server/chat/python/synapse\":true,\"PYTHON_ENV_I\
+    NFO_CACHEv2\":[{\"name\":\"3.10.16\",\"location\":\"/home/zzz/.pyenv/versio\
+    ns/3.10.16\",\"kind\":\"global-pyenv\",\"executable\":{\"filename\":\"/home\
+    /zzz/.pyenv/versions/3.10.16/bin/python\",\"sysPrefix\":\"/home/zzz/.pyenv/\
+    versions/3.10.16\",\"ctime\":1749112915906,\"mtime\":1749112915906},\"displ\
+    ay\":\"Python 3.10.16 64-bit
+    ('3.10.16')\",\"version\":{\"major\":3,\"minor\":10,\"micro\":16,\"release\
+    \":{\"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.10.16 (main, Jun  5
+    2025, 16:41:33) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"/hom\
+    e/zzz/.pyenv/versions/3.10.16/bin/python\",\"detailedDisplayName\":\"Python
+    3.10.16 64-bit ('3.10.16':
+    pyenv)\"},{\"name\":\"3.11.11\",\"location\":\"/home/zzz/.pyenv/versions/3.\
+    11.11\",\"kind\":\"global-pyenv\",\"executable\":{\"filename\":\"/home/zzz/\
+    .pyenv/versions/3.11.11/bin/python\",\"sysPrefix\":\"/home/zzz/.pyenv/versi\
+    ons/3.11.11\",\"ctime\":1735023402668,\"mtime\":1734684420794},\"display\":\
+    \"Python 3.11.11 64-bit
+    ('3.11.11')\",\"version\":{\"major\":3,\"minor\":11,\"micro\":11,\"release\
+    \":{\"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.11.11 (main, Dec 20
+    2024, 17:10:50) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"/hom\
+    e/zzz/.pyenv/versions/3.11.11/bin/python\",\"detailedDisplayName\":\"Python
+    3.11.11 64-bit ('3.11.11':
+    pyenv)\"},{\"name\":\"3.12.8\",\"location\":\"/home/zzz/.pyenv/versions/3.1\
+    2.8\",\"kind\":\"global-pyenv\",\"executable\":{\"filename\":\"/home/zzz/.p\
+    yenv/versions/3.12.8/bin/python\",\"sysPrefix\":\"/home/zzz/.pyenv/versions\
+    /3.12.8\",\"ctime\":1735280882532,\"mtime\":1735280882532},\"display\":\"Py\
+    thon 3.12.8 64-bit
+    ('3.12.8')\",\"version\":{\"major\":3,\"minor\":12,\"micro\":8,\"release\":{\
+    \"level\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.8 (main, Dec 27
+    2024, 14:27:46) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[],\"id\":\"/hom\
+    e/zzz/.pyenv/versions/3.12.8/bin/python\",\"detailedDisplayName\":\"Python
+    3.12.8 64-bit ('3.12.8':
+    pyenv)\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"exec\
+    utable\":{\"filename\":\"/bin/python3\",\"sysPrefix\":\"/usr\",\"ctime\":17\
+    35282812760,\"mtime\":1723120101000},\"display\":\"Python 3.10.12
+    64-bit\",\"version\":{\"major\":3,\"minor\":10,\"micro\":12,\"release\":{\"\
+    level\":\"final\",\"serial\":0},\"sysVersion\":\"3.10.12 (main, Aug 15 2025,
+    14:32:43) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+    var\"],\"id\":\"/bin/python3\",\"detailedDisplayName\":\"Python 3.10.12
+    64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"exec\
+    utable\":{\"filename\":\"/bin/python3.12\",\"sysPrefix\":\"/usr\",\"ctime\"\
+    :1749209026927,\"mtime\":1749027378000},\"display\":\"Python 3.12.11
+    64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":11,\"release\":{\"\
+    level\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.11 (main, Jun  4 2025,
+    08:56:18) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+    var\"],\"id\":\"/bin/python3.12\",\"detailedDisplayName\":\"Python 3.12.11
+    64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"exec\
+    utable\":{\"filename\":\"/usr/bin/python3\",\"sysPrefix\":\"/usr\",\"ctime\
+    \":1735282812760,\"mtime\":1723120101000},\"display\":\"Python 3.10.12
+    64-bit\",\"version\":{\"major\":3,\"minor\":10,\"micro\":12,\"release\":{\"\
+    level\":\"final\",\"serial\":0},\"sysVersion\":\"3.10.12 (main, Aug 15 2025,
+    14:32:43) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+    var\"],\"id\":\"/usr/bin/python3\",\"detailedDisplayName\":\"Python 3.10.12
+    64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"exec\
+    utable\":{\"filename\":\"/usr/bin/python3.12\",\"sysPrefix\":\"/usr\",\"cti\
+    me\":1749209026927,\"mtime\":1749027378000},\"display\":\"Python 3.12.11
+    64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":11,\"release\":{\"\
+    level\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.11 (main, Jun  4 2025,
+    08:56:18) [GCC
+    11.4.0]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
+    var\"],\"id\":\"/usr/bin/python3.12\",\"detailedDisplayName\":\"Python
+    3.12.11
+    64-bit\"}],\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/assemblyl\
+    ine-docker-compose\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/zzz/deploy\
+    ments/assemblyline\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\R\
+    JJ\\\\DOWNLOADS\\\\WORKSPACES\\\\DARKNET_TC_SYSTEM\":true,\"PYTHON_WAS_DISC\
+    OVERY_TRIGGERED_/home/data/workspaces/darknet_tc_system\":true,\"PYTHON_WAS\
+    _DISCOVERY_TRIGGERED_/home/data/workspaces/Malcolm\":true,\"PYTHON_WAS_DISC\
+    OVERY_TRIGGERED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\MESHLIB\":\
+    true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/meshlib\":true,\
+    \"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/workspace/doctoral/a\
+    nonymity/_code/backbone_traffic_detection\":true,\"PYTHON_WAS_DISCOVERY_TRI\
+    GGERED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\\\\AI-STOMATOLOGY\":tr\
+    ue,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/meshsdk\":true,\"\
+    PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\WORKSPACES\
+    \\\\MESHSDK\":true,\"SHELL_INTEGRATION_WORKING_KEY_powershell\":true,\"PYTH\
+    ON_WAS_DISCOVERY_TRIGGERED_/home/datum/workspaces/ab\":true,\"PYTHON_WAS_DI\
+    SCOVERY_TRIGGERED_/home/datum/workspaces/synapse\":true,\"PYTHON_WAS_DISCOV\
+    ERY_TRIGGERED_/home/datum/workspaces/workspace\":true,\"PYTHON_GLOBAL_STORA\
+    GE_KEYS\":[{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/data/workspac\
+    es/arkime-docker-compose\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home\
+    /data/workspaces/arkime-docker-compose\",\"defaultValue\":false},{\"key\":\
+    \"ssh-remote_WORKSPACE_FOLDER_INTERPRETER_PATH_/home/data/workspaces/arkime\
+    -docker-compose\"},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/data/\
+    workspaces/darknetta/services/al-service-characterize\"},{\"key\":\"PYTHON_\
+    WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/darknetta/services/al-service\
+    -characterize\",\"defaultValue\":false},{\"key\":\"ssh-remote_WORKSPACE_FOL\
+    DER_INTERPRETER_PATH_/home/data/workspaces/darknetta/services/al-service-ch\
+    aracterize\"},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/data/works\
+    paces/darknetta\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/wor\
+    kspaces/darknetta\",\"defaultValue\":false},{\"key\":\"ssh-remote_WORKSPACE\
+    _FOLDER_INTERPRETER_PATH_/home/data/workspaces/darknetta\"},{\"key\":\"PYTH\
+    ON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\DARKNET_TC_SY\
+    STEM\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH\
+    _C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\DARKNET_TC_SYSTEM\"},{\"key\":\"WORKSPA\
+    CE_FOLDER_INTERPRETER_PATH_/home/data/workspaces/blender\"},{\"key\":\"PYTH\
+    ON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/blender\",\"defaultValue\"\
+    :false},{\"key\":\"ssh-remote_WORKSPACE_FOLDER_INTERPRETER_PATH_/home/data/\
+    workspaces/blender\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/datum\
+    /workspaces/workspace\",\"defaultValue\":false},{\"key\":\"ssh-remote_WORKS\
+    PACE_FOLDER_INTERPRETER_PATH_/home/datum/workspaces/workspace\"},{\"key\":\
+    \"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/datum/workspaces/synapse\"},{\"key\
+    \":\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/datum/workspaces/synapse\",\"defa\
+    ultValue\":false},{\"key\":\"ssh-remote_WORKSPACE_FOLDER_INTERPRETER_PATH_/\
+    home/datum/workspaces/synapse\"},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PA\
+    TH_/home/datum/workspaces/ab\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_/\
+    home/datum/workspaces/ab\",\"defaultValue\":false},{\"key\":\"SHELL_INTEGRA\
+    TION_WORKING_KEY_bash\"},{\"key\":\"ssh-remote_WORKSPACE_FOLDER_INTERPRETER\
+    _PATH_/home/datum/workspaces/ab\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERE\
+    D_/home/data/workspaces/workspace\",\"defaultValue\":false},{\"key\":\"PYTH\
+    ON_ENV_INFO_CACHEv2\",\"defaultValue\":[]},{\"key\":\"PYTHON_EXTENSION_GLOB\
+    AL_STORAGE_KEYS\",\"defaultValue\":[]},{\"key\":\"SHELL_INTEGRATION_WORKING\
+    _KEY_other\"},{\"key\":\"ssh-remote_WORKSPACE_FOLDER_INTERPRETER_PATH_/home\
+    /data/workspaces/workspace\"},{\"key\":\"preferredGlobalPyInterpreter\"},{\
+    \"key\":\"VSCode.ABExp.FeatureData\",\"defaultValue\":{\"features\":[]}},{\
+    \"key\":\"isRemoteGlobalSettingCopiedKey\",\"defaultValue\":false},{\"key\":\
+    \"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key\",\"defaultValue\":[]}\
+    ,{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/data/workspaces/meshsdk\
+    \"},{\"key\":\"autoSelectionInterpretersQueriedOnce\"}],\"PYTHON_WAS_DISCOV\
+    ERY_TRIGGERED_/home/data/workspaces/blender\":true,\"PYTHON_WAS_DISCOVERY_T\
+    RIGGERED_C:\\\\USERS\\\\RJJ\\\\DOWNLOADS\\\\DARKNET_TC_SYSTEM\":true,\"PYTH\
+    ON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/darknetta\":true,\"PYTHON_\
+    WAS_DISCOVERY_TRIGGERED_/home/data/workspaces/darknetta/services/al-service\
+    -characterize\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/data/workspaces\
+    /arkime-docker-compose\":true}"
   ms-vscode.cmake-tools: '{"/home/data/workspaces/toractiveVariantSettings":[["buildType","debug"]],"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;6abeh943:31336334;0927b901:31350571;0cj2b977:31352657;0574c672:31362109;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"kitsVersionSaved":2,"/home/data/workspaces/workspace/doctoral/anonymity/_code/imbalanced_traffic_classificationactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/workspaceactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/arkimeactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\ai-stomatologyactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\geogramactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/geogramactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\meshlibactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\imgui-jsactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/as-meshactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/ai-stomatology/libs/as-mesh/asmeshactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/ai-stomatologyactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/meshlibactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\ai-stomatology\\libs\\as-meshactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/meshsdkactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\rjj\\Downloads\\workspaces\\meshsdkactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/meshsdkactiveKitName":"Clang
     18.1.3
     x86_64-pc-linux-gnu","/home/datum/workspaces/ai-stomatologyactiveVariantSettings":[["buildType","debug"]],"/home/datum/workspaces/meshsdkactiveVariantSettings":[["buildType","debug"]],"/home/datum/workspaces/MeshLibactiveVariantSettings":[["buildType","debug"]],"/home/datum/workspaces/JoltPhysicsactiveVariantSettings":[["buildType","debug"]],"/home/datum/workspaces/JoltPhysics.jsactiveVariantSettings":[["buildType","debug"]],"/home/datum/workspaces/workspaceactiveVariantSettings":[["buildType","debug"]],"/home/data/workspaces/blenderactiveVariantSettings":[["buildType","debug"]]}'
@@ -11,7 +194,7 @@ modified:
   redhat.vscode-yaml: '{"json-schema-key":{"https://raw.githubusercontent.com/compose-spec/compose-go/master/schema/compose-spec.json":{"eTag":"W/\"20ba08f025631067d16033ee7e3a9fa06fb817805247eb2130c4987b9c971174\"","schemaPath":"/home/zzz/.vscodium-server/data/User/globalStorage/redhat.vscode-yaml/schemas_cache/34be3ed6ba3f080e978bcd1d6a0ce52e"}}}'
   ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
   Vue.volar: '{"vue-welcome":"3.0.6"}'
-  workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.kubernetesView","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cmake-view","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.githd-explorer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.sqltoolsActivityBarContainer","pinned":true,"visible":false,"order":25},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cl_eide_view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlab-duo","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlab-workflow","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.data-wrangler-primary","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.taskActivity","pinned":true,"visible":false,"order":28},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.package-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.chatgpt-vscode-view-container","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sftp","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.workspaceViewer","pinned":true,"visible":false,"order":24},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":false,"order":25},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.tabnine","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.codeium","pinned":true,"visible":false,"order":9},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":25}]'
+  workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.kubernetesView","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.github-pull-requests","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cmake-view","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.makefile__viewContainer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.githd-explorer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":19},{"id":"workbench.view.extension.sqltoolsActivityBarContainer","pinned":true,"visible":false,"order":25},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.github-actions","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.cl_eide_view","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.github-pull-request","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlab-duo","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlab-workflow","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.data-wrangler-primary","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.taskActivity","pinned":true,"visible":false,"order":28},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.package-explorer","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.mongoDB","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.chatgpt-vscode-view-container","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sftp","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.workspaceViewer","pinned":true,"visible":false,"order":24},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":false,"order":25},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.tabnine","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.codeium","pinned":true,"visible":false,"order":9},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"userDataProfiles","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":25}]'
   workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
     \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBui\
     ltin\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\
@@ -57,17 +240,19 @@ modified:
     !config.extensions.showRecommendationsOnlyOnDemand &&
     !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
     hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-    hasInstalledMcpServers\"},{\"when\":\"config.chat.mcp.gallery.enabled &&
+    hasInstalledMcpServers\"},{\"when\":\"chatSetupInstalled &&
+    config.chat.mcp.gallery.enabled && defaultExtensionViews && !chatSetupHidden
+    && !hasInstalledMcpServers && mcpServersGalleryStatus == 'available' ||
+    chatSetupInstalled && config.chat.mcp.gallery.serviceUrl &&
     defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
-    mcpServersGalleryStatus == 'available' || config.chat.mcp.gallery.serviceUrl
-    && defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
-    mcpServersGalleryStatus == 'available' || defaultExtensionViews &&
-    !chatSetupHidden && !hasInstalledMcpServers && mcpServersGalleryStatus ==
-    'available' && productQualityType !=
-    'stable'\"},{\"when\":\"defaultExtensionViews && !chatSetupHidden &&
-    !config.chat.mcp.gallery.enabled && !config.chat.mcp.gallery.serviceUrl &&
-    !hasInstalledMcpServers && mcpServersGalleryStatus == 'available' &&
-    productQualityType == 'stable'\"},{\"when\":\"defaultExtensionViews &&
+    mcpServersGalleryStatus == 'available' || chatSetupInstalled &&
+    defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
+    mcpServersGalleryStatus == 'available' && productQualityType !=
+    'stable'\"},{\"when\":\"chatSetupInstalled && defaultExtensionViews &&
+    !chatSetupHidden && !config.chat.mcp.gallery.enabled &&
+    !config.chat.mcp.gallery.serviceUrl && !hasInstalledMcpServers &&
+    mcpServersGalleryStatus == 'available' && productQualityType ==
+    'stable'\"},{\"when\":\"defaultExtensionViews &&
     hasInstalledExtensions\"},{\"when\":\"hasGallery &&
     searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
     searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\
@@ -192,13 +377,21 @@ modified:
     me\":\"Cloud
     Changes\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.cspell-ex\
     plorer\",\"isBuiltin\":false}]"
+  workbench.auxiliaryBar.empty: "true"
+  workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chatEditing","name":"Copilot
+    Edits","isBuiltin":false},{"id":"workbench.panel.chat","themeIcon":{"id":"chat-sparkle"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatPanelParticipantRegistered
+    && chatSetupInstalled && !chatExtensionInvalid && !chatSetupDisabled &&
+    !chatSetupHidden"}]}]'
+  workbench.editor.languageDetectionOpenedLanguages.global: '[["jsonc",true],["diff",true],["ignore",true],["shellscript",true],["properties",true],["dockerfile",true],["markdown",true],["dockercompose",true],["plaintext",true],["json",true],["toml",true],["yaml",true]]'
   workbench.panel.pinnedPanels: '[{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.jupyter-variables","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.githd-panel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":7},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.view.extension.playwrightContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.sqltoolsPanelContainer","pinned":true,"visible":false,"order":9}]'
   workbench.panel.placeholderPanels: '[{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
     Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-    Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","isBuiltin":false},{"id":"workbench.view.extension.githd-panel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/lang2hong.githd-2.5.6-universal/media/icons/githd.svg","scheme":"file"},"name":"GitHD","isBuiltin":false,"views":[{"when":"githd.hasGitRepo
+    Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","isBuiltin":false},{"id":"workbench.view.extension.githd-panel","name":"GitHD","isBuiltin":false,"views":[{"when":"githd.hasGitRepo
     &&
-    !githd.expressMode"}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.2.6-universal/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
+    !githd.expressMode"}]},{"id":"workbench.view.extension.cspellPanel","name":"Spell
     Checker","isBuiltin":false,"views":[{},{}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
     Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]},{"id":"workbench.view.extension.playwrightContainer","name":"Playwright","isBuiltin":false},{"id":"workbench.view.extension.sqltoolsPanelContainer","name":"SQL
     Console","isBuiltin":false}]'
+  workbench.views.extensions.installed.size: "43"
+  workbench.views.extensions.local.installed.size: "49"
 removed: []

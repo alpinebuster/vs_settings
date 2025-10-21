@@ -2,6 +2,8 @@ disabled: []
 enabled:
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: detachhead.basedpyright
     uuid: 249aa903-c0c5-4eb3-9deb-06895c663b8b
   - id: GitHub.vscode-pull-request-github
@@ -16,6 +18,8 @@ enabled:
     uuid: 103154cb-b81d-4e1b-8281-c5f4fa563d37
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-kubernetes-tools.vscode-kubernetes-tools
@@ -62,8 +66,16 @@ enabled:
     uuid: cbb05103-9ec4-4452-ac7d-a986ca83e978
   - id: streetsidesoftware.code-spell-checker-scientific-terms
     uuid: cda49799-8835-4b0b-8d18-6bdb3b695699
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
+  - id: tamasfe.even-better-toml
+    uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: Vue.volar
     uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
+  - id: wmaurer.change-case
+    uuid: 2aa040bf-c73a-455d-8946-5c6cc83b8019
 builtin:
   disabled:
     - vscode.jake

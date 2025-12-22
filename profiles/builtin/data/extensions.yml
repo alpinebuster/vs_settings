@@ -5,8 +5,6 @@ disabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: James-Yu.latex-workshop
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: kiui.mesh-viewer
-    uuid: e960392a-29c1-4858-94c9-aca5bb9f94d9
   - id: kleinicke.ply-visualizer
     uuid: 70bca0c3-2e69-4f1a-8016-b4c27f5ea1bb
   - id: lang2hong.githd
@@ -33,8 +31,6 @@ disabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
-  - id: ms-vscode.Go
-    uuid: 00000000-0000-0000-0000-000000000000
   - id: ms-vscode.hexeditor
     uuid: cc7d2112-5178-4472-8e0e-25dced95e7f0
   - id: ms-vscode.makefile-tools
@@ -45,8 +41,6 @@ disabled:
     uuid: 3be1cece-c179-4cd6-b59b-3bae29e1a166
   - id: ms-vscode.vscode-js-profile-flame
     uuid: 76169c6c-5d43-4560-93d8-95e15125880d
-  - id: ms-vscode.vscode-typescript-next
-    uuid: 15305aca-2588-4ca0-8147-ab2c64730b82
   - id: ms-vscode.wasm-wasi-core
     uuid: 868e7815-da44-48b6-acf7-6b3d61bd01ea
   - id: pflannery.vscode-versionlens
@@ -82,8 +76,6 @@ enabled:
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
-  - id: wayou.vscode-todo-highlight
-    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
   - id: zokugun.vsix-manager
     uuid: 8f6c06c3-6eb7-46c8-898b-72d3057ebf45
 builtin:

@@ -388,14 +388,14 @@ modified:
   workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
     \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBui\
     ltin\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\
-    \":\"npm:showScriptExplorer\"},{\"when\":\"clangd.typeHierarchyVisible\"},{\
-    \"when\":\"clangd.memoryUsage.hasData\"},{\"when\":\"clangd.ast.hasData\"},{\
-    \"when\":\"config.rust-analyzer.showDependenciesExplorer &&
-    inRustProject\"},{\"when\":\"go.showExplorer\"},{\"when\":\"go.showPackageO\
-    utline\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"searc\
-    h-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[]},{\"id\":\
-    \"workbench.view.chat.sessions\",\"themeIcon\":{\"id\":\"chat-sessions-icon\
-    \",\"description\":\"Icon for Agent Sessions
+    \":\"npm:showScriptExplorer\"},{\"when\":\"go.showExplorer\"},{\"when\":\"g\
+    o.showPackageOutline\"},{\"when\":\"clangd.typeHierarchyVisible\"},{\"when\
+    \":\"clangd.memoryUsage.hasData\"},{\"when\":\"clangd.ast.hasData\"},{\"when\
+    \":\"config.rust-analyzer.showDependenciesExplorer &&
+    inRustProject\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\
+    \"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[]},{\
+    \"id\":\"workbench.view.chat.sessions\",\"themeIcon\":{\"id\":\"chat-sessio\
+    ns-icon\",\"description\":\"Icon for Agent Sessions
     View\",\"defaults\":{\"id\":\"comment-discussion-sparkle\"}},\"name\":\"Age\
     nt Sessions\",\"isBuiltin\":true,\"views\":[{\"when\":\"!chatSetupDisabled
     && !chatSetupHidden && config.chat.agentSessionsViewLocation ==
@@ -577,6 +577,6 @@ modified:
   workbench.view.extension.containersView.state.hidden: '[{"id":"vscode-containers.views.containers","isHidden":false,"order":0},{"id":"vscode-containers.views.images","isHidden":false,"order":2},{"id":"vscode-containers.views.registries","isHidden":true,"order":3},{"id":"vscode-containers.views.networks","isHidden":false,"order":1},{"id":"vscode-containers.views.volumes","isHidden":false,"order":4},{"id":"vscode-containers.views.dockerContexts","isHidden":true,"order":5},{"id":"vscode-containers.views.help","isHidden":true,"order":6}]'
   workbench.views.extensions.installed.size: "49"
   workbench.views.extensions.local.installed.size: "51"
-  workbench.views.extensions.remote.installed.size: "59"
+  workbench.views.extensions.remote.installed.size: "61"
   zokugun.vsix-manager: '{"version":"0.10.2"}'
 removed: []

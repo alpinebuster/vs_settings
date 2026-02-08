@@ -21,8 +21,6 @@ disabled:
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-kubernetes-tools.vscode-kubernetes-tools
     uuid: 4837e4f3-1b01-4732-b1a6-daa57ef64cab
-  - id: ms-python.black-formatter
-    uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.isort
@@ -76,6 +74,8 @@ enabled:
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: wayou.vscode-todo-highlight
+    uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
   - id: zokugun.vsix-manager
     uuid: 8f6c06c3-6eb7-46c8-898b-72d3057ebf45
 builtin:
